@@ -1,1 +1,1761 @@
-https://pastebin.com/raw/0kxyhb3u
+#EXTM3U
+#EXTINF:0,BHT 1 HD
+http://mn-xc.com:80/live.ts?channelId=5&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BHT 1
+http://mn-xc.com:80/live.ts?channelId=2&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FTV
+http://mn-xc.com:80/live.ts?channelId=6&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTRS
+http://mn-xc.com:80/live.ts?channelId=7&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,OBN
+http://mn-xc.com:80/live.ts?channelId=14&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,OBN L2
+http://mn-xc.com:80/live.ts?channelId=3224&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NOVA BH FULL HD h265 HEVC
+http://mn-xc.com:80/live.ts?channelId=5980&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NOVA BH HD
+http://mn-xc.com:80/live.ts?channelId=441&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NOVA BH HD L2
+http://mn-xc.com:80/live.ts?channelId=3226&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NOVA BH
+http://mn-xc.com:80/live.ts?channelId=4&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FACE TV HD
+http://mn-xc.com:80/live.ts?channelId=13&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FACE TV HD L2
+http://mn-xc.com:80/live.ts?channelId=3223&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL JAZEERA HD
+http://mn-xc.com:80/live.ts?channelId=17&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,N1 BiH
+http://mn-xc.com:80/live.ts?channelId=384&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BN HD
+http://mn-xc.com:80/live.ts?channelId=11&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BN SAT HD
+http://mn-xc.com:80/live.ts?channelId=12&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HAYAT HD
+http://mn-xc.com:80/live.ts?channelId=9&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HAYAT PLUS
+http://mn-xc.com:80/live.ts?channelId=10&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK BH
+http://mn-xc.com:80/live.ts?channelId=507&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV5 ISLAM
+http://mn-xc.com:80/live.ts?channelId=2515&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CITY TV
+http://mn-xc.com:80/live.ts?channelId=3359&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HRT 1 FULL HD
+http://mn-xc.com:80/live.ts?channelId=2218&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HRT 2 FULL HD
+http://mn-xc.com:80/live.ts?channelId=2219&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HRT 3 FULL HD
+http://mn-xc.com:80/live.ts?channelId=2220&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HRT 4 FULL HD
+http://mn-xc.com:80/live.ts?channelId=2221&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HRT 1
+http://mn-xc.com:80/live.ts?channelId=3&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS 1
+http://mn-xc.com:80/live.ts?channelId=1&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS 1 HQ
+http://mn-xc.com:80/live.ts?channelId=5982&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTRS PLUS
+http://mn-xc.com:80/live.ts?channelId=8&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ATV BL
+http://mn-xc.com:80/live.ts?channelId=15&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV ALFA
+http://mn-xc.com:80/live.ts?channelId=16&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HIT TV
+http://mn-xc.com:80/live.ts?channelId=18&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,KANAL 6 HD
+http://mn-xc.com:80/live.ts?channelId=19&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SUPER TV HD
+http://mn-xc.com:80/live.ts?channelId=2299&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MTV IGMAN
+http://mn-xc.com:80/live.ts?channelId=20&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,POSAVINA TV
+http://mn-xc.com:80/live.ts?channelId=21&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TK TUZLA
+http://mn-xc.com:80/live.ts?channelId=23&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV1 BiH
+http://mn-xc.com:80/live.ts?channelId=24&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV SARAJEVO HD
+http://mn-xc.com:80/live.ts?channelId=25&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTV USK HD
+http://mn-xc.com:80/live.ts?channelId=22&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,B1 TV
+http://mn-xc.com:80/live.ts?channelId=1023&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SEVDAH TV
+http://mn-xc.com:80/live.ts?channelId=1027&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HRT 2
+http://mn-xc.com:80/live.ts?channelId=26&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HRT 3
+http://mn-xc.com:80/live.ts?channelId=27&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HRT 4
+http://mn-xc.com:80/live.ts?channelId=28&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HRT iNT.
+http://mn-xc.com:80/live.ts?channelId=29&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NOVA TV
+http://mn-xc.com:80/live.ts?channelId=30&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NOVA TV HD
+http://mn-xc.com:80/live.ts?channelId=31&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,Nova TV HD L2
+http://mn-xc.com:80/live.ts?channelId=3217&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,N1 HR
+http://mn-xc.com:80/live.ts?channelId=385&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTL FULL HD h265 HEVC
+http://mn-xc.com:80/live.ts?channelId=5981&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTL HD
+http://mn-xc.com:80/live.ts?channelId=32&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTL L2
+http://mn-xc.com:80/live.ts?channelId=3218&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTL 2 HD
+http://mn-xc.com:80/live.ts?channelId=33&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTL ADRIA
+http://mn-xc.com:80/live.ts?channelId=5816&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTL CRIME
+http://mn-xc.com:80/live.ts?channelId=34&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTL LIVING
+http://mn-xc.com:80/live.ts?channelId=35&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTL PASSION
+http://mn-xc.com:80/live.ts?channelId=36&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DOMA TV
+http://mn-xc.com:80/live.ts?channelId=38&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DOMA TV HD
+http://mn-xc.com:80/live.ts?channelId=39&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HNTV
+http://mn-xc.com:80/live.ts?channelId=40&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,OSJECKA TV
+http://mn-xc.com:80/live.ts?channelId=41&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK 1 FULL HD
+http://mn-xc.com:80/live.ts?channelId=514&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SLAVONSKA TV
+http://mn-xc.com:80/live.ts?channelId=42&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,VINKOVACKA TV
+http://mn-xc.com:80/live.ts?channelId=43&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,Z1
+http://mn-xc.com:80/live.ts?channelId=44&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS 1 FULL HD
+http://mn-xc.com:80/live.ts?channelId=440&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS 2 HQ
+http://mn-xc.com:80/live.ts?channelId=442&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS 2
+http://mn-xc.com:80/live.ts?channelId=45&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS 2 FULL HD
+http://mn-xc.com:80/live.ts?channelId=46&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS 3
+http://mn-xc.com:80/live.ts?channelId=47&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS SVET HD
+http://mn-xc.com:80/live.ts?channelId=48&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NOVA S HD
+http://mn-xc.com:80/live.ts?channelId=54&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,N1 SR HD
+http://mn-xc.com:80/live.ts?channelId=386&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PRVA TV
+http://mn-xc.com:80/live.ts?channelId=49&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PRVA TV FULL HD
+http://mn-xc.com:80/live.ts?channelId=2834&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PRVA KICK
+http://mn-xc.com:80/live.ts?channelId=50&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PRVA MAX
+http://mn-xc.com:80/live.ts?channelId=51&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PRVA PLUS
+http://mn-xc.com:80/live.ts?channelId=52&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PRVA WORLD
+http://mn-xc.com:80/live.ts?channelId=53&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PI TELEVIZIJA
+http://mn-xc.com:80/live.ts?channelId=5986&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HAPPY TV
+http://mn-xc.com:80/live.ts?channelId=55&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HAPPY TV HQ
+http://mn-xc.com:80/live.ts?channelId=3510&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,B92 TV
+http://mn-xc.com:80/live.ts?channelId=56&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,B92 TV FULL HD
+http://mn-xc.com:80/live.ts?channelId=2838&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ZADRUGA LIVE 1
+http://mn-xc.com:80/live.ts?channelId=3502&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ZADRUGA LIVE 2
+http://mn-xc.com:80/live.ts?channelId=3503&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ZADRUGA 3
+http://mn-xc.com:80/live.ts?channelId=3504&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ZADRUGA 4
+http://mn-xc.com:80/live.ts?channelId=3505&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HAPPY TV PAROVI LIVE
+http://mn-xc.com:80/live.ts?channelId=59&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,REALITY ZADRUGA
+http://mn-xc.com:80/live.ts?channelId=60&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NOVA M
+http://mn-xc.com:80/live.ts?channelId=62&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTCG 1 HD
+http://mn-xc.com:80/live.ts?channelId=63&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTCG 2
+http://mn-xc.com:80/live.ts?channelId=64&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CG: RTCG SAT
+http://mn-xc.com:80/live.ts?channelId=65&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CG: VIJESTI CG
+http://mn-xc.com:80/live.ts?channelId=66&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,STAR TV
+http://mn-xc.com:80/live.ts?channelId=5984&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS ZIVOT
+http://mn-xc.com:80/live.ts?channelId=57&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PRVA LIFE
+http://mn-xc.com:80/live.ts?channelId=5983&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK TV FULL HD
+http://mn-xc.com:80/live.ts?channelId=5987&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK TV
+http://mn-xc.com:80/live.ts?channelId=67&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS TREZOR
+http://mn-xc.com:80/live.ts?channelId=5985&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RED TV (ex. PINK 2)
+http://mn-xc.com:80/live.ts?channelId=68&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK 3 INFO
+http://mn-xc.com:80/live.ts?channelId=69&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK ACTION
+http://mn-xc.com:80/live.ts?channelId=70&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK CLASSIC
+http://mn-xc.com:80/live.ts?channelId=71&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HRAM TV
+http://mn-xc.com:80/live.ts?channelId=61&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK COMEDY
+http://mn-xc.com:80/live.ts?channelId=72&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK CRIME & MYSTERY
+http://mn-xc.com:80/live.ts?channelId=73&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK EXTRA
+http://mn-xc.com:80/live.ts?channelId=74&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK ROLL
+http://mn-xc.com:80/live.ts?channelId=2518&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK STYLE
+http://mn-xc.com:80/live.ts?channelId=2519&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK HITS 1
+http://mn-xc.com:80/live.ts?channelId=2520&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK HITS 2
+http://mn-xc.com:80/live.ts?channelId=2521&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK ROMANCE
+http://mn-xc.com:80/live.ts?channelId=5988&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK PEDIA
+http://mn-xc.com:80/live.ts?channelId=2522&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK FASHION
+http://mn-xc.com:80/live.ts?channelId=2523&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK SHOW
+http://mn-xc.com:80/live.ts?channelId=2524&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK FILM
+http://mn-xc.com:80/live.ts?channelId=75&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK HORROR
+http://mn-xc.com:80/live.ts?channelId=76&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK MOVIES
+http://mn-xc.com:80/live.ts?channelId=77&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK PLUS
+http://mn-xc.com:80/live.ts?channelId=78&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK PREMIUM
+http://mn-xc.com:80/live.ts?channelId=79&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK REALITY
+http://mn-xc.com:80/live.ts?channelId=80&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK SCI-FI
+http://mn-xc.com:80/live.ts?channelId=81&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK SERIJE
+http://mn-xc.com:80/live.ts?channelId=82&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK SOAP
+http://mn-xc.com:80/live.ts?channelId=83&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK THRILLER
+http://mn-xc.com:80/live.ts?channelId=84&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK ZABAVA
+http://mn-xc.com:80/live.ts?channelId=85&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK WESTERN
+http://mn-xc.com:80/live.ts?channelId=86&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AMC HD
+http://mn-xc.com:80/live.ts?channelId=88&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AXN ADRIA
+http://mn-xc.com:80/live.ts?channelId=90&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AXN SPIN
+http://mn-xc.com:80/live.ts?channelId=91&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET CINEMA 1 HD
+http://mn-xc.com:80/live.ts?channelId=5944&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET CINEMA 2 HD
+http://mn-xc.com:80/live.ts?channelId=5945&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET CINEMA 3 HD
+http://mn-xc.com:80/live.ts?channelId=5948&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET CINEMA 4 HD
+http://mn-xc.com:80/live.ts?channelId=5949&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CINEMAX 1 HD
+http://mn-xc.com:80/live.ts?channelId=92&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CINEMAX 2 HD
+http://mn-xc.com:80/live.ts?channelId=93&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CINESTAR TV 1
+http://mn-xc.com:80/live.ts?channelId=94&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CINESTAR TV ACTION HD
+http://mn-xc.com:80/live.ts?channelId=95&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CINESTAR FANTASY
+http://mn-xc.com:80/live.ts?channelId=96&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CINESTAR TV PREMIERE 1 HD
+http://mn-xc.com:80/live.ts?channelId=97&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CINESTAR TV PREMIERE 2 HD
+http://mn-xc.com:80/live.ts?channelId=98&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CINESTAR TV COMEDY
+http://mn-xc.com:80/live.ts?channelId=4814&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DIVA
+http://mn-xc.com:80/live.ts?channelId=99&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FILMBOX EXTRA HD
+http://mn-xc.com:80/live.ts?channelId=2516&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET FILM 1 HD (EXYU FILM)
+http://mn-xc.com:80/live.ts?channelId=6018&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET FILM 2 HD (EXYU FILM)
+http://mn-xc.com:80/live.ts?channelId=6019&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET FILM 3 HD (EXYU FILM)
+http://mn-xc.com:80/live.ts?channelId=6020&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET FILM 4 HD (EXYU FILM)
+http://mn-xc.com:80/live.ts?channelId=6021&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FOX
+http://mn-xc.com:80/live.ts?channelId=103&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FOX HD
+http://mn-xc.com:80/live.ts?channelId=104&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FOX CRIME
+http://mn-xc.com:80/live.ts?channelId=105&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FOX CRIME HD
+http://mn-xc.com:80/live.ts?channelId=106&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FOX LIFE
+http://mn-xc.com:80/live.ts?channelId=107&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FOX LIFE HD
+http://mn-xc.com:80/live.ts?channelId=108&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FOX MOVIES
+http://mn-xc.com:80/live.ts?channelId=109&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FOX MOVIES HD
+http://mn-xc.com:80/live.ts?channelId=110&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HBO HD
+http://mn-xc.com:80/live.ts?channelId=111&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET MOVIES 1 HD
+http://mn-xc.com:80/live.ts?channelId=6022&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET MOVIES 2 HD
+http://mn-xc.com:80/live.ts?channelId=6023&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET MOVIES 3 HD
+http://mn-xc.com:80/live.ts?channelId=6024&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET MOVIES 4 HD
+http://mn-xc.com:80/live.ts?channelId=6025&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CINEMANIA HD
+http://mn-xc.com:80/live.ts?channelId=101&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HBO 2 HD
+http://mn-xc.com:80/live.ts?channelId=112&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HBO 3 HD
+http://mn-xc.com:80/live.ts?channelId=113&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,KINO TV
+http://mn-xc.com:80/live.ts?channelId=114&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,KLASIK TV
+http://mn-xc.com:80/live.ts?channelId=115&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,M1 FILM
+http://mn-xc.com:80/live.ts?channelId=116&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NETFLIX MOVIES 3 HD
+http://mn-xc.com:80/live.ts?channelId=5952&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NETFLIX MOVIES 2 HD
+http://mn-xc.com:80/live.ts?channelId=5953&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NETFLIX MOVIES 1 HD
+http://mn-xc.com:80/live.ts?channelId=5954&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NETFLIX MOVIES 4 HD
+http://mn-xc.com:80/live.ts?channelId=5943&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET SELECT 1 HD
+http://mn-xc.com:80/live.ts?channelId=5950&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET SELECT 2 HD
+http://mn-xc.com:80/live.ts?channelId=5951&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET SELECT 3 HD
+http://mn-xc.com:80/live.ts?channelId=2525&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET SELECT 4 HD
+http://mn-xc.com:80/live.ts?channelId=5979&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SCI-FI HD
+http://mn-xc.com:80/live.ts?channelId=120&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV 1000
+http://mn-xc.com:80/live.ts?channelId=121&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ANDRIJA & ANDJELKA
+http://mn-xc.com:80/live.ts?channelId=2527&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET TURKEY 1 HD
+http://mn-xc.com:80/live.ts?channelId=6026&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET TURKEY 2 HD
+http://mn-xc.com:80/live.ts?channelId=6027&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET TURKEY 3 HD
+http://mn-xc.com:80/live.ts?channelId=6028&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET TURKEY 4 HD
+http://mn-xc.com:80/live.ts?channelId=6029&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,24 KITCHEN
+http://mn-xc.com:80/live.ts?channelId=122&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BALKAN TRIP
+http://mn-xc.com:80/live.ts?channelId=5989&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BEE TV (Pcelarstvo)
+http://mn-xc.com:80/live.ts?channelId=6036&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ANIMAL PLANET HD
+http://mn-xc.com:80/live.ts?channelId=123&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CRIME INVESTIGATION
+http://mn-xc.com:80/live.ts?channelId=124&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DISCOVERY CHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=126&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DISCOVERY ID HD
+http://mn-xc.com:80/live.ts?channelId=127&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DISCOVERY SCIENCE
+http://mn-xc.com:80/live.ts?channelId=128&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,E! ENTERTAINMENT
+http://mn-xc.com:80/live.ts?channelId=131&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HISTORY CHANNEL 1 HD
+http://mn-xc.com:80/live.ts?channelId=132&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HISTORY CHANNEL 2 HD
+http://mn-xc.com:80/live.ts?channelId=133&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,LOV i RIBOLOV
+http://mn-xc.com:80/live.ts?channelId=134&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NATIONAL GEOGRAPHIC SR HD
+http://mn-xc.com:80/live.ts?channelId=135&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NATIONAL GEOGRAPHIC HR
+http://mn-xc.com:80/live.ts?channelId=136&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DA VINCI LEARNING
+http://mn-xc.com:80/live.ts?channelId=129&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD HD
+http://mn-xc.com:80/live.ts?channelId=137&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TLC L2
+http://mn-xc.com:80/live.ts?channelId=6009&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TLC
+http://mn-xc.com:80/live.ts?channelId=138&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TRAVEL CHANNEL
+http://mn-xc.com:80/live.ts?channelId=139&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,VIASAT EXPLORE
+http://mn-xc.com:80/live.ts?channelId=140&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,VIASAT HISTORY
+http://mn-xc.com:80/live.ts?channelId=141&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,VIASAT NATURE
+http://mn-xc.com:80/live.ts?channelId=142&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NOVA SPORT HD
+http://mn-xc.com:80/live.ts?channelId=3506&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 1 HR HD
+http://mn-xc.com:80/live.ts?channelId=143&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 2 HR HD
+http://mn-xc.com:80/live.ts?channelId=144&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 3 HR HD
+http://mn-xc.com:80/live.ts?channelId=145&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 4 HR HD
+http://mn-xc.com:80/live.ts?channelId=146&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 5 HR HD
+http://mn-xc.com:80/live.ts?channelId=147&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 6 HR HD
+http://mn-xc.com:80/live.ts?channelId=148&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 7 HR HD (xcp)
+http://mn-xc.com:80/live.ts?channelId=6185&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 8 HR HD (xcp)
+http://mn-xc.com:80/live.ts?channelId=6186&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 9 HR HD (xcp)
+http://mn-xc.com:80/live.ts?channelId=6187&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 10 HR HD (xcp)
+http://mn-xc.com:80/live.ts?channelId=6188&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 1 SR
+http://mn-xc.com:80/live.ts?channelId=149&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 1 SR BiH HD
+http://mn-xc.com:80/live.ts?channelId=5818&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 2 SR
+http://mn-xc.com:80/live.ts?channelId=151&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 3 SR
+http://mn-xc.com:80/live.ts?channelId=152&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 4 SR
+http://mn-xc.com:80/live.ts?channelId=153&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 1 SR FULL HD
+http://mn-xc.com:80/live.ts?channelId=154&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 1 SR HD
+http://mn-xc.com:80/live.ts?channelId=155&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 2 SR HD
+http://mn-xc.com:80/live.ts?channelId=156&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 3 SR HD
+http://mn-xc.com:80/live.ts?channelId=157&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 4 SR HD
+http://mn-xc.com:80/live.ts?channelId=158&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 5 SR HD
+http://mn-xc.com:80/live.ts?channelId=3238&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT E-SPORTS HD
+http://mn-xc.com:80/live.ts?channelId=6000&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB HR HD
+http://mn-xc.com:80/live.ts?channelId=167&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 1 HR HD
+http://mn-xc.com:80/live.ts?channelId=168&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 2 HR HD
+http://mn-xc.com:80/live.ts?channelId=169&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 3 HR HD
+http://mn-xc.com:80/live.ts?channelId=170&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 4 HR
+http://mn-xc.com:80/live.ts?channelId=171&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB E-SPORT
+http://mn-xc.com:80/live.ts?channelId=161&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 5 HR
+http://mn-xc.com:80/live.ts?channelId=172&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 6 HR
+http://mn-xc.com:80/live.ts?channelId=173&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB SR HD
+http://mn-xc.com:80/live.ts?channelId=174&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 1 SR HD
+http://mn-xc.com:80/live.ts?channelId=175&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 2 SR HD
+http://mn-xc.com:80/live.ts?channelId=176&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 3 SR HD
+http://mn-xc.com:80/live.ts?channelId=177&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 4 SR
+http://mn-xc.com:80/live.ts?channelId=178&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 5 SR
+http://mn-xc.com:80/live.ts?channelId=179&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB 6 SR
+http://mn-xc.com:80/live.ts?channelId=180&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,EUROSPORT 1 SR HD
+http://mn-xc.com:80/live.ts?channelId=159&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,EUROSPORT 1 SR FULL HD
+http://mn-xc.com:80/live.ts?channelId=5996&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,EUROSPORT 2 SR HD
+http://mn-xc.com:80/live.ts?channelId=160&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,EUROSPORT 2 SR FULL HD
+http://mn-xc.com:80/live.ts?channelId=5997&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY SPORT F1 HD
+http://mn-xc.com:80/live.ts?channelId=2505&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FIGHT CHANNEL
+http://mn-xc.com:80/live.ts?channelId=162&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PLANET SPORT 1 HD
+http://mn-xc.com:80/live.ts?channelId=163&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PLANET SPORT 2  HD
+http://mn-xc.com:80/live.ts?channelId=164&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PLANET SPORT 3 HD
+http://mn-xc.com:80/live.ts?channelId=165&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PLANET SPORT 4 HD
+http://mn-xc.com:80/live.ts?channelId=2513&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PLANET SPORT 5 HD
+http://mn-xc.com:80/live.ts?channelId=2514&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MOJA TV SPORT (PREMIJER LIGA BiH)
+http://mn-xc.com:80/live.ts?channelId=166&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ZVEZDA TV
+http://mn-xc.com:80/live.ts?channelId=5995&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ATG LIVE
+http://mn-xc.com:80/live.ts?channelId=2217&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AT: SKY SPORT AUSTRIA HD
+http://mn-xc.com:80/live.ts?channelId=185&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DAZN 1 HD
+http://mn-xc.com:80/live.ts?channelId=186&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DAZN 1 h265 HEVC
+http://mn-xc.com:80/live.ts?channelId=5999&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DAZN 2 HD
+http://mn-xc.com:80/live.ts?channelId=187&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DAZN 2 h265 HEVC
+http://mn-xc.com:80/live.ts?channelId=5998&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: EUROSPORT 1 HD GERMAN
+http://mn-xc.com:80/live.ts?channelId=188&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: EUROSPORT 2 HD GERMAN
+http://mn-xc.com:80/live.ts?channelId=189&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: EUROSPORT XTRA
+http://mn-xc.com:80/live.ts?channelId=1024&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY BUNDESLIGA 1 HD
+http://mn-xc.com:80/live.ts?channelId=190&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY BUNDESLIGA 2 HD (Match day)
+http://mn-xc.com:80/live.ts?channelId=191&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY BUNDESLIGA 3 HD (Match day)
+http://mn-xc.com:80/live.ts?channelId=192&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY BUNDESLIGA 4 HD (Match day)
+http://mn-xc.com:80/live.ts?channelId=193&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY BUNDESLIGA 5 HD (Match day)
+http://mn-xc.com:80/live.ts?channelId=194&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY BUNDESLIGA 6 HD (Match day)
+http://mn-xc.com:80/live.ts?channelId=195&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY SPORT 1 HD
+http://mn-xc.com:80/live.ts?channelId=196&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY SPORT 2 HD
+http://mn-xc.com:80/live.ts?channelId=197&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY SPORT 3 HD (Match day)
+http://mn-xc.com:80/live.ts?channelId=198&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY SPORT 4 HD (Match day)
+http://mn-xc.com:80/live.ts?channelId=199&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY SPORT 5 HD (Match day)
+http://mn-xc.com:80/live.ts?channelId=200&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY SPORT NEWS HD
+http://mn-xc.com:80/live.ts?channelId=201&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DSF SPORT 1 HD
+http://mn-xc.com:80/live.ts?channelId=202&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: AUTO MOTO SPORT HD
+http://mn-xc.com:80/live.ts?channelId=204&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,STRUMPFOVI
+http://mn-xc.com:80/live.ts?channelId=2532&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,US: NBA TV HD
+http://mn-xc.com:80/live.ts?channelId=2430&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET SUNDJER BOB HD
+http://mn-xc.com:80/live.ts?channelId=6030&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET OGGY HD
+http://mn-xc.com:80/live.ts?channelId=6031&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET DUSKO DUGOUSKO
+http://mn-xc.com:80/live.ts?channelId=6032&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET CARTOON 1 HD
+http://mn-xc.com:80/live.ts?channelId=6033&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET CARTOON 2 HD
+http://mn-xc.com:80/live.ts?channelId=6034&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NET CARTOON 3 HD
+http://mn-xc.com:80/live.ts?channelId=6035&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MIKI MAUS HR
+http://mn-xc.com:80/live.ts?channelId=2533&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DISNEY CHANNEL EN
+http://mn-xc.com:80/live.ts?channelId=5991&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BABY TV
+http://mn-xc.com:80/live.ts?channelId=206&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HAYATOVCI HD
+http://mn-xc.com:80/live.ts?channelId=207&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MINIMAX
+http://mn-xc.com:80/live.ts?channelId=208&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MINI TV
+http://mn-xc.com:80/live.ts?channelId=209&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NICK JR SR
+http://mn-xc.com:80/live.ts?channelId=210&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NICK JR HR
+http://mn-xc.com:80/live.ts?channelId=211&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NICKELODEON SR
+http://mn-xc.com:80/live.ts?channelId=212&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NICKELODEON HR
+http://mn-xc.com:80/live.ts?channelId=213&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DEXY TV
+http://mn-xc.com:80/live.ts?channelId=5990&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CARTOON NETWORK EN
+http://mn-xc.com:80/live.ts?channelId=214&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PIKABOO
+http://mn-xc.com:80/live.ts?channelId=215&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK SUPER KIDS
+http://mn-xc.com:80/live.ts?channelId=216&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTL KOCKICA
+http://mn-xc.com:80/live.ts?channelId=217&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TNT KIDS
+http://mn-xc.com:80/live.ts?channelId=218&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CMC
+http://mn-xc.com:80/live.ts?channelId=219&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TOXIC TV
+http://mn-xc.com:80/live.ts?channelId=6010&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BN MUSIC HD
+http://mn-xc.com:80/live.ts?channelId=448&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DM SAT
+http://mn-xc.com:80/live.ts?channelId=220&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,GRAND TV 1
+http://mn-xc.com:80/live.ts?channelId=221&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,GRAND TV 2
+http://mn-xc.com:80/live.ts?channelId=222&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DAS ERSTE
+http://mn-xc.com:80/live.ts?channelId=235&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HAYAT FOLK
+http://mn-xc.com:80/live.ts?channelId=223&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HAYAT MUSIC
+http://mn-xc.com:80/live.ts?channelId=224&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IDJ TV HD
+http://mn-xc.com:80/live.ts?channelId=225&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,OTV VALENTINO
+http://mn-xc.com:80/live.ts?channelId=226&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK FOLK 1
+http://mn-xc.com:80/live.ts?channelId=227&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK FOLK 2
+http://mn-xc.com:80/live.ts?channelId=228&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK MUSIC 1
+http://mn-xc.com:80/live.ts?channelId=229&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK MUSIC 2
+http://mn-xc.com:80/live.ts?channelId=230&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,YU PLANET HD
+http://mn-xc.com:80/live.ts?channelId=231&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DAS ERSTE HD
+http://mn-xc.com:80/live.ts?channelId=236&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: ZDF HD
+http://mn-xc.com:80/live.ts?channelId=296&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: PRO7 HD
+http://mn-xc.com:80/live.ts?channelId=255&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: PRO7 MAXX HD
+http://mn-xc.com:80/live.ts?channelId=257&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SAT 1
+http://mn-xc.com:80/live.ts?channelId=264&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SAT 1 GOLD HD
+http://mn-xc.com:80/live.ts?channelId=265&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: RTL HD
+http://mn-xc.com:80/live.ts?channelId=258&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: RTL 2 HD
+http://mn-xc.com:80/live.ts?channelId=259&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: RTL CRIME
+http://mn-xc.com:80/live.ts?channelId=260&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: RTL NITRO HD
+http://mn-xc.com:80/live.ts?channelId=262&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: RTL PASSION HD
+http://mn-xc.com:80/live.ts?channelId=263&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: KABEL 1 HD
+http://mn-xc.com:80/live.ts?channelId=244&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: KABEL 1 CLASSIC HD
+http://mn-xc.com:80/live.ts?channelId=245&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: VOX HD
+http://mn-xc.com:80/live.ts?channelId=295&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: PHOENIX HD
+http://mn-xc.com:80/live.ts?channelId=6005&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: JUNIOR HD
+http://mn-xc.com:80/live.ts?channelId=6008&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NDR HD
+http://mn-xc.com:80/live.ts?channelId=476&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: N-TV HD
+http://mn-xc.com:80/live.ts?channelId=254&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: ZDF INFO HD
+http://mn-xc.com:80/live.ts?channelId=297&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SIXX HD
+http://mn-xc.com:80/live.ts?channelId=357&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HR HD
+http://mn-xc.com:80/live.ts?channelId=6002&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: BR FERNSEHEN HD
+http://mn-xc.com:80/live.ts?channelId=6003&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SR HD
+http://mn-xc.com:80/live.ts?channelId=6004&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DMAX HD
+http://mn-xc.com:80/live.ts?channelId=240&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY FOX HD
+http://mn-xc.com:80/live.ts?channelId=242&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY ACTION HD
+http://mn-xc.com:80/live.ts?channelId=266&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY CINEMA HD
+http://mn-xc.com:80/live.ts?channelId=269&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SKY COMEDY
+http://mn-xc.com:80/live.ts?channelId=2830&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY FAMILY HD
+http://mn-xc.com:80/live.ts?channelId=2831&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY CINEMA 24 HD
+http://mn-xc.com:80/live.ts?channelId=270&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY BEST OF HD
+http://mn-xc.com:80/live.ts?channelId=272&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY HITS HD
+http://mn-xc.com:80/live.ts?channelId=273&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY NOSTALGIE HD
+http://mn-xc.com:80/live.ts?channelId=274&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: ANIXE HD
+http://mn-xc.com:80/live.ts?channelId=6014&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: CRIME+INVESTIGATION HD
+http://mn-xc.com:80/live.ts?channelId=6015&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: 13th STREET HD
+http://mn-xc.com:80/live.ts?channelId=232&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY TNT COMEDY HD
+http://mn-xc.com:80/live.ts?channelId=287&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY TNT FILM HD
+http://mn-xc.com:80/live.ts?channelId=288&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY TNT SERIE HD
+http://mn-xc.com:80/live.ts?channelId=289&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NATIONAL GEOGRAPHIC HD
+http://mn-xc.com:80/live.ts?channelId=250&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NATIONAL GEOGRAPHIC WILD HD
+http://mn-xc.com:80/live.ts?channelId=251&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DISNEY CHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=238&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DISNEY XD HD
+http://mn-xc.com:80/live.ts?channelId=239&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: BABY TV
+http://mn-xc.com:80/live.ts?channelId=2517&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: E! ENTERTAINMENT
+http://mn-xc.com:80/live.ts?channelId=241&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NICKELODEON HD
+http://mn-xc.com:80/live.ts?channelId=253&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: BOOMERANG HD
+http://mn-xc.com:80/live.ts?channelId=234&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: CARTOON NETWORK HD
+http://mn-xc.com:80/live.ts?channelId=338&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SYFY HD
+http://mn-xc.com:80/live.ts?channelId=2316&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DISCOVERY CHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=237&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: AXN HD
+http://mn-xc.com:80/live.ts?channelId=233&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HISTORY CHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=243&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: KIKA HD
+http://mn-xc.com:80/live.ts?channelId=246&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: KINOWELT HD
+http://mn-xc.com:80/live.ts?channelId=247&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: N24 WELT
+http://mn-xc.com:80/live.ts?channelId=248&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: N24 DOKU
+http://mn-xc.com:80/live.ts?channelId=249&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NICK JR HD
+http://mn-xc.com:80/live.ts?channelId=252&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: PRO7 FUN HD
+http://mn-xc.com:80/live.ts?channelId=256&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY SONY HD
+http://mn-xc.com:80/live.ts?channelId=286&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY UNIVERSAL HD
+http://mn-xc.com:80/live.ts?channelId=290&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY SPIEGEL GESCHICHTE
+http://mn-xc.com:80/live.ts?channelId=291&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: TELE 5 HD
+http://mn-xc.com:80/live.ts?channelId=293&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: TOGGO PLUS
+http://mn-xc.com:80/live.ts?channelId=6007&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AT: ORF 1 HD
+http://mn-xc.com:80/live.ts?channelId=300&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AT: ORF 2 HD
+http://mn-xc.com:80/live.ts?channelId=301&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AT: PULS 4
+http://mn-xc.com:80/live.ts?channelId=302&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CH: SRF 1 HD
+http://mn-xc.com:80/live.ts?channelId=303&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CH: SRF 2 HD
+http://mn-xc.com:80/live.ts?channelId=304&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AT: ATV 2
+http://mn-xc.com:80/live.ts?channelId=313&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ILAHIJE TV
+http://mn-xc.com:80/live.ts?channelId=415&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AT: OE24 TV
+http://mn-xc.com:80/live.ts?channelId=5993&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AT: ORF 3 HD
+http://mn-xc.com:80/live.ts?channelId=315&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AT: PULS 4 HD
+http://mn-xc.com:80/live.ts?channelId=5992&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DISNEY JUNIOR
+http://mn-xc.com:80/live.ts?channelId=339&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: RTL PLUS HD
+http://mn-xc.com:80/live.ts?channelId=356&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DUGA TV
+http://mn-xc.com:80/live.ts?channelId=360&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,GLAS DRINE
+http://mn-xc.com:80/live.ts?channelId=361&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV SEHARA
+http://mn-xc.com:80/live.ts?channelId=1454&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IZVORNA TV
+http://mn-xc.com:80/live.ts?channelId=367&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,JUGOTON
+http://mn-xc.com:80/live.ts?channelId=369&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,K3 PRNJAVOR
+http://mn-xc.com:80/live.ts?channelId=373&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AT: ATV 1 HD
+http://mn-xc.com:80/live.ts?channelId=299&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,LAUDATO TV
+http://mn-xc.com:80/live.ts?channelId=375&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MTV HITS
+http://mn-xc.com:80/live.ts?channelId=382&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS DRAMA
+http://mn-xc.com:80/live.ts?channelId=406&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV SLON TUZLA
+http://mn-xc.com:80/live.ts?channelId=439&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY ONE HD
+http://mn-xc.com:80/live.ts?channelId=468&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY KRIMI
+http://mn-xc.com:80/live.ts?channelId=481&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: KABEL 1 DOKU
+http://mn-xc.com:80/live.ts?channelId=2398&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SAT 1 EMOTIONS HD
+http://mn-xc.com:80/live.ts?channelId=2399&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORT KLUB GOLF
+http://mn-xc.com:80/live.ts?channelId=2404&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MASA I MEDO 1
+http://mn-xc.com:80/live.ts?channelId=2417&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,LUD ZBUNJEN NORMALAN 1
+http://mn-xc.com:80/live.ts?channelId=2427&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,LUD ZBUNJEN NORMALAN 2
+http://mn-xc.com:80/live.ts?channelId=2428&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,LUD ZBUNJEN NORMALAN 3
+http://mn-xc.com:80/live.ts?channelId=5994&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK FAMILY
+http://mn-xc.com:80/live.ts?channelId=2429&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV RASKA (KCN Raska)
+http://mn-xc.com:80/live.ts?channelId=2440&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: FOX SPORT 1 HD
+http://mn-xc.com:80/live.ts?channelId=2550&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: FOX SPORT 2 HD
+http://mn-xc.com:80/live.ts?channelId=2551&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: FOX SPORT 3 HD
+http://mn-xc.com:80/live.ts?channelId=2552&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: FOX SPORT 4 HD
+http://mn-xc.com:80/live.ts?channelId=2553&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: RBB HD
+http://mn-xc.com:80/live.ts?channelId=294&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: FOX SPORT 5 HD
+http://mn-xc.com:80/live.ts?channelId=2554&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: ARTE HD
+http://mn-xc.com:80/live.ts?channelId=6001&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: FOX SPORT 6 HD
+http://mn-xc.com:80/live.ts?channelId=2555&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: NPO 1 HD
+http://mn-xc.com:80/live.ts?channelId=2556&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: NPO 2 HD
+http://mn-xc.com:80/live.ts?channelId=2557&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: NPO 3 HD
+http://mn-xc.com:80/live.ts?channelId=2558&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: NET 5 HD
+http://mn-xc.com:80/live.ts?channelId=2559&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: RTL 4 HD
+http://mn-xc.com:80/live.ts?channelId=2560&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: RTL 5 HD
+http://mn-xc.com:80/live.ts?channelId=2561&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: TELE CLUB ACTION HD
+http://mn-xc.com:80/live.ts?channelId=307&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: RTL 7 HD
+http://mn-xc.com:80/live.ts?channelId=2562&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: RTL 8 HD
+http://mn-xc.com:80/live.ts?channelId=2563&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: SBS 6 HD
+http://mn-xc.com:80/live.ts?channelId=2564&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: NAT GEO HD
+http://mn-xc.com:80/live.ts?channelId=2565&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: NAT GEO WILD HD
+http://mn-xc.com:80/live.ts?channelId=2566&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: DISCOVERY HD
+http://mn-xc.com:80/live.ts?channelId=2567&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,VH1
+http://mn-xc.com:80/live.ts?channelId=430&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: VERONICA HD
+http://mn-xc.com:80/live.ts?channelId=2568&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: EUROSPORT 1
+http://mn-xc.com:80/live.ts?channelId=2569&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: EUROSPORT 2
+http://mn-xc.com:80/live.ts?channelId=2570&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: EXTREME SPORT
+http://mn-xc.com:80/live.ts?channelId=2571&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: SKY MOVIES KIDS HD
+http://mn-xc.com:80/live.ts?channelId=2572&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: DISNEY
+http://mn-xc.com:80/live.ts?channelId=2573&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: SKY MOVIES ACTION HD
+http://mn-xc.com:80/live.ts?channelId=2576&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: FILM 1 PREMIERE HD
+http://mn-xc.com:80/live.ts?channelId=2577&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NL: FILM 1 ACTION HD
+http://mn-xc.com:80/live.ts?channelId=2578&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY ATLANTIC HD
+http://mn-xc.com:80/live.ts?channelId=2609&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTV 1
+http://mn-xc.com:80/live.ts?channelId=2832&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTV 2
+http://mn-xc.com:80/live.ts?channelId=2833&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS POLETARAC
+http://mn-xc.com:80/live.ts?channelId=2835&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NOVI PAZAR
+http://mn-xc.com:80/live.ts?channelId=2537&deviceMac=00:1A:79:00:14:7D&uid=4050&r=1
+#EXTINF:0,RTS KOLO
+http://mn-xc.com:80/live.ts?channelId=2836&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,KLAPE I TAMBURE
+http://mn-xc.com:80/live.ts?channelId=2872&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MTV
+http://mn-xc.com:80/live.ts?channelId=381&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTS MUZIKA
+http://mn-xc.com:80/live.ts?channelId=2837&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: MOTORVISION
+http://mn-xc.com:80/live.ts?channelId=2841&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BALKANIKA
+http://mn-xc.com:80/live.ts?channelId=2842&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BANOVINA TV
+http://mn-xc.com:80/live.ts?channelId=2843&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: WELT HD
+http://mn-xc.com:80/live.ts?channelId=2863&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,KCN 1 Kopernikus
+http://mn-xc.com:80/live.ts?channelId=2864&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,JADRAN TV
+http://mn-xc.com:80/live.ts?channelId=2865&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,VAVOOM
+http://mn-xc.com:80/live.ts?channelId=2866&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,24/7 PINGVINI
+http://mn-xc.com:80/live.ts?channelId=2867&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK KIDS
+http://mn-xc.com:80/live.ts?channelId=2873&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DOKU TV HD
+http://mn-xc.com:80/live.ts?channelId=2875&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK KUVAR
+http://mn-xc.com:80/live.ts?channelId=2877&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BOOMERANG EN
+http://mn-xc.com:80/live.ts?channelId=2878&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AT: ORF SPORT+ HD
+http://mn-xc.com:80/live.ts?channelId=2880&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SPORTSKA TV
+http://mn-xc.com:80/live.ts?channelId=2881&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,KCN 3 Kopernikus
+http://mn-xc.com:80/live.ts?channelId=2882&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,O KANAL
+http://mn-xc.com:80/live.ts?channelId=2883&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BN
+http://mn-xc.com:80/live.ts?channelId=2884&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PINK WORLD CINEMA
+http://mn-xc.com:80/live.ts?channelId=2420&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CG: PINK M
+http://mn-xc.com:80/live.ts?channelId=2886&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY CINEMA COMEDY HD
+http://mn-xc.com:80/live.ts?channelId=3212&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FILM KLUB
+http://mn-xc.com:80/live.ts?channelId=2885&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SANDZAK TV HD
+http://mn-xc.com:80/live.ts?channelId=2438&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FOOD NETWORK
+http://mn-xc.com:80/live.ts?channelId=2467&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SUPERSTAR TV HD
+http://mn-xc.com:80/live.ts?channelId=4211&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MEKA TV
+http://mn-xc.com:80/live.ts?channelId=4225&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SANDZACKA MREZA
+http://mn-xc.com:80/live.ts?channelId=4231&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTV HB HERCEG BOSNA
+http://mn-xc.com:80/live.ts?channelId=4232&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: FILMAX ANIMATION HD
+http://mn-xc.com:80/live.ts?channelId=4251&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: FILMAX CINEMA HD
+http://mn-xc.com:80/live.ts?channelId=4252&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: FILMAX FAMILY HD
+http://mn-xc.com:80/live.ts?channelId=4253&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: ATV HD
+http://mn-xc.com:80/live.ts?channelId=4619&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: STAR TV HD
+http://mn-xc.com:80/live.ts?channelId=4620&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: SHOW HD
+http://mn-xc.com:80/live.ts?channelId=4621&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: FOX HD
+http://mn-xc.com:80/live.ts?channelId=4622&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: KANAL 7 HD
+http://mn-xc.com:80/live.ts?channelId=4623&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: KANAL D HD
+http://mn-xc.com:80/live.ts?channelId=4624&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: TV8 HD
+http://mn-xc.com:80/live.ts?channelId=4625&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: TV8 5HD
+http://mn-xc.com:80/live.ts?channelId=4626&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: CNN TURK HD
+http://mn-xc.com:80/live.ts?channelId=4627&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: TRT 1 HD
+http://mn-xc.com:80/live.ts?channelId=4628&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: TRT 2 HD
+http://mn-xc.com:80/live.ts?channelId=4629&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: TRT MUZIK HD
+http://mn-xc.com:80/live.ts?channelId=4630&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: A2 HD
+http://mn-xc.com:80/live.ts?channelId=4631&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: BEYAZ HD
+http://mn-xc.com:80/live.ts?channelId=4632&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: TRT COCUK HD
+http://mn-xc.com:80/live.ts?channelId=4633&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: NTV HD
+http://mn-xc.com:80/live.ts?channelId=4634&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: A HABER HD
+http://mn-xc.com:80/live.ts?channelId=4635&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: TRT HABER HD
+http://mn-xc.com:80/live.ts?channelId=4636&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: KRAL TV HD
+http://mn-xc.com:80/live.ts?channelId=4637&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: KRAL POP HD
+http://mn-xc.com:80/live.ts?channelId=4638&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: DMAX HD
+http://mn-xc.com:80/live.ts?channelId=4639&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: BEINSPORTS HABER HD
+http://mn-xc.com:80/live.ts?channelId=4640&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: BEINSPORTS 1 HD
+http://mn-xc.com:80/live.ts?channelId=4641&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: BEINSPORTS 2 HD
+http://mn-xc.com:80/live.ts?channelId=4642&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: BEINSPORTS 3 HD
+http://mn-xc.com:80/live.ts?channelId=4643&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: BEIN SPORTS MAX 1 HD
+http://mn-xc.com:80/live.ts?channelId=4644&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: BEIN SPORTS MAX 2 HD
+http://mn-xc.com:80/live.ts?channelId=4645&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: TIVIBU SPOR 1 HD
+http://mn-xc.com:80/live.ts?channelId=4646&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: TIVIBU SPOR 2 HD
+http://mn-xc.com:80/live.ts?channelId=4647&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: DISCOVERY CHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=4648&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: HISTORY CHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=4649&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: NAT GEO WILD HD
+http://mn-xc.com:80/live.ts?channelId=4650&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: NATIONAL GEOGRAPHIC HD
+http://mn-xc.com:80/live.ts?channelId=4651&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: VIASAT HISTORY HD
+http://mn-xc.com:80/live.ts?channelId=4652&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: VIZYON SINEMA 1 HD
+http://mn-xc.com:80/live.ts?channelId=4653&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: VIZYON SINEMA 2 HD
+http://mn-xc.com:80/live.ts?channelId=4654&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: VIZYON SINEMA 3 HD
+http://mn-xc.com:80/live.ts?channelId=4655&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: VIZYON SINEMA 4 HD
+http://mn-xc.com:80/live.ts?channelId=4656&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TR: VIZYON SINEMA 5 HD
+http://mn-xc.com:80/live.ts?channelId=4657&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: RTK 1 HD
+http://mn-xc.com:80/live.ts?channelId=4701&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: RTK 2 HD
+http://mn-xc.com:80/live.ts?channelId=4702&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: RTK 3 HD
+http://mn-xc.com:80/live.ts?channelId=4703&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: RTK 4 HD
+http://mn-xc.com:80/live.ts?channelId=4704&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: KLAN HD
+http://mn-xc.com:80/live.ts?channelId=4706&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: KLAN KOSOVA HD
+http://mn-xc.com:80/live.ts?channelId=4707&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTV ZENICA HD
+http://mn-xc.com:80/live.ts?channelId=4818&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV VOGOSCA
+http://mn-xc.com:80/live.ts?channelId=4820&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV BUGOJNO
+http://mn-xc.com:80/live.ts?channelId=4821&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,RTV VISOKO
+http://mn-xc.com:80/live.ts?channelId=4822&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HEMA TV
+http://mn-xc.com:80/live.ts?channelId=4823&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NTV IC KAKANJ
+http://mn-xc.com:80/live.ts?channelId=4826&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ALFA TV L2
+http://mn-xc.com:80/live.ts?channelId=4828&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AXN
+http://mn-xc.com:80/live.ts?channelId=4832&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ANIMAL PLANET
+http://mn-xc.com:80/live.ts?channelId=4833&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DISCOVERY CHANNEL
+http://mn-xc.com:80/live.ts?channelId=4834&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,LOV I RIBOLOV
+http://mn-xc.com:80/live.ts?channelId=4835&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,WOMAN
+http://mn-xc.com:80/live.ts?channelId=4836&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ISLAM TV HD
+http://mn-xc.com:80/live.ts?channelId=4840&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,OSM
+http://mn-xc.com:80/live.ts?channelId=4841&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HAYAT FHD
+http://mn-xc.com:80/live.ts?channelId=4843&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NET MOVIES 1 HD
+http://mn-xc.com:80/live.ts?channelId=4851&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV S
+http://mn-xc.com:80/live.ts?channelId=4844&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,KCN 2 MUSIC
+http://mn-xc.com:80/live.ts?channelId=4845&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,LAUDATO
+http://mn-xc.com:80/live.ts?channelId=4848&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,NOVA SPORT FULL HD
+http://mn-xc.com:80/live.ts?channelId=4849&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,O KANAL HD
+http://mn-xc.com:80/live.ts?channelId=4850&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NET MOVIES 2 HD
+http://mn-xc.com:80/live.ts?channelId=4852&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NET MOVIES 3 HD
+http://mn-xc.com:80/live.ts?channelId=4853&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NET MOVIES 4 HD
+http://mn-xc.com:80/live.ts?channelId=4854&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: Eagle Cinema Abenteuer HD
+http://mn-xc.com:80/live.ts?channelId=4855&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: Eagle Cinema Aktion HD
+http://mn-xc.com:80/live.ts?channelId=4856&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: Eagle Cinema Drama HD
+http://mn-xc.com:80/live.ts?channelId=4857&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: Eagle Cinema Horror HD
+http://mn-xc.com:80/live.ts?channelId=4858&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: Eagle Cinema Komodie HD
+http://mn-xc.com:80/live.ts?channelId=4859&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: Eagle Cinema Lächeln HD
+http://mn-xc.com:80/live.ts?channelId=4860&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: Eagle Cinema Premiere HD
+http://mn-xc.com:80/live.ts?channelId=4861&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: Eagle Cinema Sci-Fi HD
+http://mn-xc.com:80/live.ts?channelId=4863&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: TF1 HD
+http://mn-xc.com:80/live.ts?channelId=4873&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: FRANCE 2 HD
+http://mn-xc.com:80/live.ts?channelId=4874&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: FRANCE 3 HD
+http://mn-xc.com:80/live.ts?channelId=4875&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: FRANCE 4
+http://mn-xc.com:80/live.ts?channelId=4876&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: HISTOIRE HD
+http://mn-xc.com:80/live.ts?channelId=4877&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: ARTE HD
+http://mn-xc.com:80/live.ts?channelId=4878&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: BOOMERANG
+http://mn-xc.com:80/live.ts?channelId=4879&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: CINE+ CLASSIC HD
+http://mn-xc.com:80/live.ts?channelId=4880&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: CINE+ EMOTION HD
+http://mn-xc.com:80/live.ts?channelId=4881&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: DISCOVERY CHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=4882&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: DISNEY CHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=4883&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: PARIS PREMIERE HD
+http://mn-xc.com:80/live.ts?channelId=4884&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: PLANETE+ HD
+http://mn-xc.com:80/live.ts?channelId=4885&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: PLANETE+ C&I HD
+http://mn-xc.com:80/live.ts?channelId=4886&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: SERIE CLUB HD
+http://mn-xc.com:80/live.ts?channelId=4887&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: SYFY
+http://mn-xc.com:80/live.ts?channelId=4888&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: TMC HD
+http://mn-xc.com:80/live.ts?channelId=4889&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: RTV 21 HD
+http://mn-xc.com:80/live.ts?channelId=4890&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: KLAN PLUS HD
+http://mn-xc.com:80/live.ts?channelId=4891&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: RTV 21 MK HD
+http://mn-xc.com:80/live.ts?channelId=4898&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: FOX LIFE
+http://mn-xc.com:80/live.ts?channelId=4894&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: EXPLORER NATYRA HD
+http://mn-xc.com:80/live.ts?channelId=4899&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: EXPLORER SHKENCE HD
+http://mn-xc.com:80/live.ts?channelId=4900&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: FILM AUTOR HD
+http://mn-xc.com:80/live.ts?channelId=4901&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: FILM DY HD
+http://mn-xc.com:80/live.ts?channelId=4902&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: RTV21 POPULLORE
+http://mn-xc.com:80/live.ts?channelId=4903&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: FILM NJE HD
+http://mn-xc.com:80/live.ts?channelId=4904&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: TRING HISTORY
+http://mn-xc.com:80/live.ts?channelId=4905&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: TRING COMEDY HD
+http://mn-xc.com:80/live.ts?channelId=4906&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: TRING SUPER HD
+http://mn-xc.com:80/live.ts?channelId=4910&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: TRING FANTASY HD
+http://mn-xc.com:80/live.ts?channelId=4907&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: TRING JOLLY HD
+http://mn-xc.com:80/live.ts?channelId=4908&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: TRING KIDS HD
+http://mn-xc.com:80/live.ts?channelId=4909&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: X-DRAMA HD
+http://mn-xc.com:80/live.ts?channelId=4911&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: X PREMIUM 3 HD
+http://mn-xc.com:80/live.ts?channelId=4913&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: ALSAT M FHD
+http://mn-xc.com:80/live.ts?channelId=4914&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: X THRILLER HD
+http://mn-xc.com:80/live.ts?channelId=4915&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: CUFO HD
+http://mn-xc.com:80/live.ts?channelId=4916&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: FILM HITS HD
+http://mn-xc.com:80/live.ts?channelId=4917&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: FILM DRAME HD
+http://mn-xc.com:80/live.ts?channelId=4918&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: NATIONAL GEOGRAPHIC HD
+http://mn-xc.com:80/live.ts?channelId=4919&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SUPER RTL
+http://mn-xc.com:80/live.ts?channelId=5061&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DK: DR 1 HD
+http://mn-xc.com:80/live.ts?channelId=5088&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DK: DK 4
+http://mn-xc.com:80/live.ts?channelId=5089&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DK: DR RAMASJANG
+http://mn-xc.com:80/live.ts?channelId=5091&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DK: TV 2 FYN HD
+http://mn-xc.com:80/live.ts?channelId=5093&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DK: TV3 HD
+http://mn-xc.com:80/live.ts?channelId=5097&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DK: TV3 MAX HD
+http://mn-xc.com:80/live.ts?channelId=5098&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DK: BOOMERANG HD
+http://mn-xc.com:80/live.ts?channelId=5101&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DK: CARTOON NETWORK HD
+http://mn-xc.com:80/live.ts?channelId=5103&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DK: DISNEY XD
+http://mn-xc.com:80/live.ts?channelId=5106&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DK: INVESTIGATION DISCOVERY HD
+http://mn-xc.com:80/live.ts?channelId=5107&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DK: TV2 LORRY
+http://mn-xc.com:80/live.ts?channelId=5108&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,VTV
+http://mn-xc.com:80/live.ts?channelId=5112&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MREZA ZAGREB
+http://mn-xc.com:80/live.ts?channelId=5113&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MREZA SPLIT
+http://mn-xc.com:80/live.ts?channelId=5114&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,TV DUBROVNIK
+http://mn-xc.com:80/live.ts?channelId=5115&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: MRT 1 HD
+http://mn-xc.com:80/live.ts?channelId=6109&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: MRT 1 HD (L2)
+http://mn-xc.com:80/live.ts?channelId=5116&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: MRT 2
+http://mn-xc.com:80/live.ts?channelId=6110&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: MRT 2 HD (L2)
+http://mn-xc.com:80/live.ts?channelId=5117&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: MRT 3
+http://mn-xc.com:80/live.ts?channelId=6111&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: MRT 4
+http://mn-xc.com:80/live.ts?channelId=6112&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: MRT 5
+http://mn-xc.com:80/live.ts?channelId=6113&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TELMA
+http://mn-xc.com:80/live.ts?channelId=6114&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: 24 VESTI
+http://mn-xc.com:80/live.ts?channelId=6115&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TV HUGO 1 HD
+http://mn-xc.com:80/live.ts?channelId=6116&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: EDO
+http://mn-xc.com:80/live.ts?channelId=6118&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TV+ Kumanovo
+http://mn-xc.com:80/live.ts?channelId=6119&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: IRIS
+http://mn-xc.com:80/live.ts?channelId=6120&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: KANAL 5
+http://mn-xc.com:80/live.ts?channelId=6121&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: ALFA TV
+http://mn-xc.com:80/live.ts?channelId=6122&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TERA Bitola
+http://mn-xc.com:80/live.ts?channelId=6123&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TV ORBIS HD
+http://mn-xc.com:80/live.ts?channelId=6124&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: NASHA TV
+http://mn-xc.com:80/live.ts?channelId=6125&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TV SONCE
+http://mn-xc.com:80/live.ts?channelId=6126&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: V KANAL HD
+http://mn-xc.com:80/live.ts?channelId=6127&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: IN TV AUSTRALIA HD
+http://mn-xc.com:80/live.ts?channelId=6128&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: BALKAN MUSIC HD
+http://mn-xc.com:80/live.ts?channelId=6129&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: FOLK CLUB TV HD
+http://mn-xc.com:80/live.ts?channelId=6130&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: SUTEL TV
+http://mn-xc.com:80/live.ts?channelId=5118&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TELMA HD
+http://mn-xc.com:80/live.ts?channelId=5119&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TV HUGO 3 HD
+http://mn-xc.com:80/live.ts?channelId=5120&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: CINESTAR TV PREMIERE 1 HD
+http://mn-xc.com:80/live.ts?channelId=5121&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: CINESTAR TV PREMIERE 2 HD
+http://mn-xc.com:80/live.ts?channelId=5122&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: FOX HD
+http://mn-xc.com:80/live.ts?channelId=5124&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: FOX LIFE HD
+http://mn-xc.com:80/live.ts?channelId=5125&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: HBO HD
+http://mn-xc.com:80/live.ts?channelId=5126&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: ALSAT M HD
+http://mn-xc.com:80/live.ts?channelId=5127&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: HBO 3 HD
+http://mn-xc.com:80/live.ts?channelId=5128&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: KANAL 21 TV
+http://mn-xc.com:80/live.ts?channelId=5132&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: MRT HD (Sobraniski)
+http://mn-xc.com:80/live.ts?channelId=5133&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: SITEL
+http://mn-xc.com:80/live.ts?channelId=5135&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TV 1000 HD
+http://mn-xc.com:80/live.ts?channelId=5136&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: KANAL 8
+http://mn-xc.com:80/live.ts?channelId=5137&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: VIASAT EXPLORE HD
+http://mn-xc.com:80/live.ts?channelId=5138&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: VIASAT HISTORY HD
+http://mn-xc.com:80/live.ts?channelId=5139&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: KANAL 5 (L2)
+http://mn-xc.com:80/live.ts?channelId=5143&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: SITEL Full HD
+http://mn-xc.com:80/live.ts?channelId=5144&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: SKY FOLK HD
+http://mn-xc.com:80/live.ts?channelId=5145&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: M1 HD
+http://mn-xc.com:80/live.ts?channelId=5192&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: TV2 HD
+http://mn-xc.com:80/live.ts?channelId=5194&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: HBO 1
+http://mn-xc.com:80/live.ts?channelId=5202&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: RTL CLUB HD
+http://mn-xc.com:80/live.ts?channelId=5205&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: RTL GOLD HD
+http://mn-xc.com:80/live.ts?channelId=5206&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: AXN
+http://mn-xc.com:80/live.ts?channelId=5209&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: RTL 2 HD
+http://mn-xc.com:80/live.ts?channelId=5210&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: RTL HD
+http://mn-xc.com:80/live.ts?channelId=6017&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: M5
+http://mn-xc.com:80/live.ts?channelId=5211&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: FILM+
+http://mn-xc.com:80/live.ts?channelId=5212&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: FRANCE 4 HD
+http://mn-xc.com:80/live.ts?channelId=5759&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: MY COMEDY HD
+http://mn-xc.com:80/live.ts?channelId=5760&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: RTL 9
+http://mn-xc.com:80/live.ts?channelId=5761&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: CHERIE 25
+http://mn-xc.com:80/live.ts?channelId=5762&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: E! ENTERTAINMENT
+http://mn-xc.com:80/live.ts?channelId=5763&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: TF1 SERIES+FILMS HD
+http://mn-xc.com:80/live.ts?channelId=5764&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: CANAL+ CINEMA HD
+http://mn-xc.com:80/live.ts?channelId=5765&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: CANAL+ SERIES HD
+http://mn-xc.com:80/live.ts?channelId=5766&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: CINE+ FRISSON HD
+http://mn-xc.com:80/live.ts?channelId=5767&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: BOOMERANG HD
+http://mn-xc.com:80/live.ts?channelId=5773&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: Disney CHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=5774&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: INVESTIGATION DISCOVERY HD
+http://mn-xc.com:80/live.ts?channelId=5779&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: ARTE
+http://mn-xc.com:80/live.ts?channelId=5785&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,FR: FRANCE O
+http://mn-xc.com:80/live.ts?channelId=5786&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SKY CINEMA FUN HD
+http://mn-xc.com:80/live.ts?channelId=5789&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: S SELECT 1 HD
+http://mn-xc.com:80/live.ts?channelId=5791&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: S SELECT 2 HD
+http://mn-xc.com:80/live.ts?channelId=5792&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: S SELECT 3 HD
+http://mn-xc.com:80/live.ts?channelId=5793&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: S SELECT 4 HD
+http://mn-xc.com:80/live.ts?channelId=5794&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: S SELECT 5 HD
+http://mn-xc.com:80/live.ts?channelId=5795&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: S SELECT 6 HD
+http://mn-xc.com:80/live.ts?channelId=5796&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: S SELECT 7 DE
+http://mn-xc.com:80/live.ts?channelId=5797&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: S SELECT 8 HD
+http://mn-xc.com:80/live.ts?channelId=5798&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: KTV HD
+http://mn-xc.com:80/live.ts?channelId=5799&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: RTSH HD
+http://mn-xc.com:80/live.ts?channelId=5800&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: TRING PLANET
+http://mn-xc.com:80/live.ts?channelId=5801&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: TRING WORLD
+http://mn-xc.com:80/live.ts?channelId=6038&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: TRING LIFE
+http://mn-xc.com:80/live.ts?channelId=5802&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,AL: TRING SHQIP
+http://mn-xc.com:80/live.ts?channelId=6037&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HYPER CINEMA INFO
+http://mn-xc.com:80/live.ts?channelId=5805&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HYPER CINEMA 02 HD
+http://mn-xc.com:80/live.ts?channelId=5807&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HYPER CINEMA 04 HD
+http://mn-xc.com:80/live.ts?channelId=5809&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HYPER CINEMA 06 HD
+http://mn-xc.com:80/live.ts?channelId=5811&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HYPER CINEMA 08 HD
+http://mn-xc.com:80/live.ts?channelId=5813&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HYPER CINEMA 09 HD
+http://mn-xc.com:80/live.ts?channelId=5814&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HYPER CINEMA 10 HD
+http://mn-xc.com:80/live.ts?channelId=5815&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: SWR BR HD
+http://mn-xc.com:80/live.ts?channelId=6006&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: WDR HD
+http://mn-xc.com:80/live.ts?channelId=5817&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BIR TV
+http://mn-xc.com:80/live.ts?channelId=5819&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,CINESTAR TV 2
+http://mn-xc.com:80/live.ts?channelId=5820&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MASA MEDO
+http://mn-xc.com:80/live.ts?channelId=5836&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: SLO 3
+http://mn-xc.com:80/live.ts?channelId=5884&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: TV MARIBOR
+http://mn-xc.com:80/live.ts?channelId=5885&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: VOYO
+http://mn-xc.com:80/live.ts?channelId=5886&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: HBO
+http://mn-xc.com:80/live.ts?channelId=5887&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: HBO 2
+http://mn-xc.com:80/live.ts?channelId=5888&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: SLO 1 HD
+http://mn-xc.com:80/live.ts?channelId=5889&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: SLO 2 HD
+http://mn-xc.com:80/live.ts?channelId=5890&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: POP TV HD
+http://mn-xc.com:80/live.ts?channelId=5891&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: KANAL A HD
+http://mn-xc.com:80/live.ts?channelId=5892&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: POP BRIO HD
+http://mn-xc.com:80/live.ts?channelId=5893&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: POP KINO HD
+http://mn-xc.com:80/live.ts?channelId=5894&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: HBO 3
+http://mn-xc.com:80/live.ts?channelId=5895&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: ANIMAL PLANET HD
+http://mn-xc.com:80/live.ts?channelId=5896&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: DR FIT
+http://mn-xc.com:80/live.ts?channelId=5897&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: NET TV
+http://mn-xc.com:80/live.ts?channelId=5898&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: TLC
+http://mn-xc.com:80/live.ts?channelId=5899&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SL: PLANET TV PLUS HD
+http://mn-xc.com:80/live.ts?channelId=5900&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BG: FOX LIFE HD
+http://mn-xc.com:80/live.ts?channelId=5904&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BG: CINEMAX 2 HD
+http://mn-xc.com:80/live.ts?channelId=5907&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BG: EUROCHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=5909&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BG: ACTION+ HD
+http://mn-xc.com:80/live.ts?channelId=5910&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BG: AXN
+http://mn-xc.com:80/live.ts?channelId=5911&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BG: FOX CRIME HD
+http://mn-xc.com:80/live.ts?channelId=5915&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BG: HISTORY CHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=5916&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BG: RING HD
+http://mn-xc.com:80/live.ts?channelId=5917&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BG: TV 1000
+http://mn-xc.com:80/live.ts?channelId=5918&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BG: VH1
+http://mn-xc.com:80/live.ts?channelId=5919&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BG: PLANETA HD
+http://mn-xc.com:80/live.ts?channelId=5920&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: C MORE SERIES HD
+http://mn-xc.com:80/live.ts?channelId=5921&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: DISCOVERY CHANNEL HD
+http://mn-xc.com:80/live.ts?channelId=5922&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: KANAL 9 HD
+http://mn-xc.com:80/live.ts?channelId=5924&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: SJUAN HD
+http://mn-xc.com:80/live.ts?channelId=5926&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: SVT 1 HD
+http://mn-xc.com:80/live.ts?channelId=5927&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: SVT 2 HD
+http://mn-xc.com:80/live.ts?channelId=5928&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: SVT 24 HD
+http://mn-xc.com:80/live.ts?channelId=5929&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: TV 10 HD
+http://mn-xc.com:80/live.ts?channelId=5930&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: TV 3 HD
+http://mn-xc.com:80/live.ts?channelId=5931&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: TV 4 Film
+http://mn-xc.com:80/live.ts?channelId=5932&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: TV 4 Guld
+http://mn-xc.com:80/live.ts?channelId=5933&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: TV 4 HD
+http://mn-xc.com:80/live.ts?channelId=5934&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: TV 6 HD
+http://mn-xc.com:80/live.ts?channelId=5935&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: TV 8 HD
+http://mn-xc.com:80/live.ts?channelId=5936&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HYPER CINEMA 01 HD
+http://mn-xc.com:80/live.ts?channelId=5806&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SE: VIASAT FILM PREMIERE HD
+http://mn-xc.com:80/live.ts?channelId=5938&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HYPER CINEMA 03 HD
+http://mn-xc.com:80/live.ts?channelId=5808&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HYPER CINEMA 05 HD
+http://mn-xc.com:80/live.ts?channelId=5810&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: HYPER CINEMA 07 HD
+http://mn-xc.com:80/live.ts?channelId=5812&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NET CINEMA 4 HD
+http://mn-xc.com:80/live.ts?channelId=5973&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NET CINEMA 3 HD
+http://mn-xc.com:80/live.ts?channelId=5974&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NET CINEMA 2 HD
+http://mn-xc.com:80/live.ts?channelId=5975&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NET CINEMA 1 HD
+http://mn-xc.com:80/live.ts?channelId=5976&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NET SELECT 2 HD
+http://mn-xc.com:80/live.ts?channelId=5977&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: NET SELECT 1 HD
+http://mn-xc.com:80/live.ts?channelId=5978&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: TLC
+http://mn-xc.com:80/live.ts?channelId=6016&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: ASIAN PORN
+http://mn-xc.com:80/live.ts?channelId=6039&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: BLACK WHITE PORN 1
+http://mn-xc.com:80/live.ts?channelId=6040&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: BLACK WHITE PORN 2
+http://mn-xc.com:80/live.ts?channelId=6041&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: MASSAGE 1
+http://mn-xc.com:80/live.ts?channelId=6042&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: OLDIE X
+http://mn-xc.com:80/live.ts?channelId=6043&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: PORN X
+http://mn-xc.com:80/live.ts?channelId=6044&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: TABOO PORN
+http://mn-xc.com:80/live.ts?channelId=6045&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: TEEN PORN 1
+http://mn-xc.com:80/live.ts?channelId=6046&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: TEEN PORN 2
+http://mn-xc.com:80/live.ts?channelId=6047&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: THREESOME PORN
+http://mn-xc.com:80/live.ts?channelId=6048&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: TINY PORN 1
+http://mn-xc.com:80/live.ts?channelId=6049&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: WOW PORN 1
+http://mn-xc.com:80/live.ts?channelId=6050&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: X CHANNEL 1
+http://mn-xc.com:80/live.ts?channelId=6051&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: X CHANNEL 2
+http://mn-xc.com:80/live.ts?channelId=6052&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: X CHANNEL 3
+http://mn-xc.com:80/live.ts?channelId=6053&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: X CHANNEL 4
+http://mn-xc.com:80/live.ts?channelId=6054&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: ADULT 3 HD
+http://mn-xc.com:80/live.ts?channelId=6065&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: ADULT 4 HD
+http://mn-xc.com:80/live.ts?channelId=6066&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: PENTHOUSE GOLD HD
+http://mn-xc.com:80/live.ts?channelId=6068&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: DORCEL XXX HD
+http://mn-xc.com:80/live.ts?channelId=6069&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: PRIVATE HD
+http://mn-xc.com:80/live.ts?channelId=6070&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: TABOO HD
+http://mn-xc.com:80/live.ts?channelId=6071&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: CZECHSTREETS HD
+http://mn-xc.com:80/live.ts?channelId=6072&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: EVIL ANGEL HD
+http://mn-xc.com:80/live.ts?channelId=6073&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: AST TV 1 (TS PORN)
+http://mn-xc.com:80/live.ts?channelId=6074&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: AST TV 2 (TS PORN)
+http://mn-xc.com:80/live.ts?channelId=6075&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: BABY TV*
+http://mn-xc.com:80/live.ts?channelId=6076&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: CANALE 10*
+http://mn-xc.com:80/live.ts?channelId=6077&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: COMPANY TV HD*
+http://mn-xc.com:80/live.ts?channelId=6078&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: DISCOVERY MOTORTREND*
+http://mn-xc.com:80/live.ts?channelId=6079&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: DISCOVERY NOVE*
+http://mn-xc.com:80/live.ts?channelId=6080&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: DISNEY JUNIOR*
+http://mn-xc.com:80/live.ts?channelId=6081&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: FOCUS*
+http://mn-xc.com:80/live.ts?channelId=6082&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: ICARO TV*
+http://mn-xc.com:80/live.ts?channelId=6083&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: ITALIA 2
+http://mn-xc.com:80/live.ts?channelId=6084&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: La TR3*
+http://mn-xc.com:80/live.ts?channelId=6085&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: La7D*
+http://mn-xc.com:80/live.ts?channelId=6086&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: MEDIASET 2 HD*
+http://mn-xc.com:80/live.ts?channelId=6087&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: NICK JR*
+http://mn-xc.com:80/live.ts?channelId=6088&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: NICKELODEON
+http://mn-xc.com:80/live.ts?channelId=6089&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: PREMIUM EMOTION*
+http://mn-xc.com:80/live.ts?channelId=6090&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: PREMIUM STORIES*
+http://mn-xc.com:80/live.ts?channelId=6091&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: PRIMAFILA 2 FULL HD
+http://mn-xc.com:80/live.ts?channelId=6092&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: PRIMAFILA 3 FULL HD
+http://mn-xc.com:80/live.ts?channelId=6093&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: PRIMAFILA 5 FULL HD
+http://mn-xc.com:80/live.ts?channelId=6094&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: PRIMAFILA 6 FULL HD
+http://mn-xc.com:80/live.ts?channelId=6095&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: PRIMAFILA 7 FULL HD
+http://mn-xc.com:80/live.ts?channelId=6096&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: PRIMAFILA 8 FULL HD
+http://mn-xc.com:80/live.ts?channelId=6097&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: PRIMAFILA 9 FULL HD
+http://mn-xc.com:80/live.ts?channelId=6098&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: RAI 1 HD
+http://mn-xc.com:80/live.ts?channelId=6099&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: RAI 2 HD
+http://mn-xc.com:80/live.ts?channelId=6100&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: RAI 3 HD
+http://mn-xc.com:80/live.ts?channelId=6101&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: RAI 5 HD
+http://mn-xc.com:80/live.ts?channelId=6102&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: RAI NEWS 24*
+http://mn-xc.com:80/live.ts?channelId=6103&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: RAI PREMIUM HD*
+http://mn-xc.com:80/live.ts?channelId=6104&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: SKY CINEMA COMEDY HD*
+http://mn-xc.com:80/live.ts?channelId=6105&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: SKY CINEMA ROMANCE HD*
+http://mn-xc.com:80/live.ts?channelId=6106&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: SUPER TV BRESCIA*
+http://mn-xc.com:80/live.ts?channelId=6107&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IT: TVA HD*
+http://mn-xc.com:80/live.ts?channelId=6108&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: RTV 21 MACEDONIA
+http://mn-xc.com:80/live.ts?channelId=6131&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TV HUGO 2 HD
+http://mn-xc.com:80/live.ts?channelId=6132&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,K1 HD
+http://mn-xc.com:80/live.ts?channelId=6133&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,IMPERIA
+http://mn-xc.com:80/live.ts?channelId=6134&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,PICKBOX HD
+http://mn-xc.com:80/live.ts?channelId=6135&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,SOS KANAL
+http://mn-xc.com:80/live.ts?channelId=6136&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: 3SAT
+http://mn-xc.com:80/live.ts?channelId=6137&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BBC EATRH
+http://mn-xc.com:80/live.ts?channelId=6138&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: ADULT XXX 1 HD
+http://mn-xc.com:80/live.ts?channelId=6139&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: REALITY KINGS TV
+http://mn-xc.com:80/live.ts?channelId=6140&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: REDLIGHT HD
+http://mn-xc.com:80/live.ts?channelId=6141&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: BANG U
+http://mn-xc.com:80/live.ts?channelId=6143&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: PLATINUM XXX
+http://mn-xc.com:80/live.ts?channelId=6144&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: BRAZZERS TV EUROPE HD
+http://mn-xc.com:80/live.ts?channelId=6146&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: EVIL ANGEL TV HD
+http://mn-xc.com:80/live.ts?channelId=6147&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: FAKE TAXI HD
+http://mn-xc.com:80/live.ts?channelId=6149&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: HUSTLER HD
+http://mn-xc.com:80/live.ts?channelId=6150&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: HUSTLER TV HD
+http://mn-xc.com:80/live.ts?channelId=6151&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: PENTHOUSE QUICKIES HD
+http://mn-xc.com:80/live.ts?channelId=6155&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: SHEMALE TUBE 1 HD
+http://mn-xc.com:80/live.ts?channelId=6157&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: SUPER ONE HD
+http://mn-xc.com:80/live.ts?channelId=6165&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,XXX: X CHANNEL 5 HD
+http://mn-xc.com:80/live.ts?channelId=6166&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: DIGI World HD
+http://mn-xc.com:80/live.ts?channelId=6168&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: CINEMAX 1
+http://mn-xc.com:80/live.ts?channelId=6169&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: CINEMAX 2
+http://mn-xc.com:80/live.ts?channelId=6170&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: FEM3
+http://mn-xc.com:80/live.ts?channelId=6171&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,HU: DUNA
+http://mn-xc.com:80/live.ts?channelId=6172&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: M DOC Channel (TEST)
+http://mn-xc.com:80/live.ts?channelId=6173&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: FOX MOVIES
+http://mn-xc.com:80/live.ts?channelId=6174&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: M1 GOLD
+http://mn-xc.com:80/live.ts?channelId=6175&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: M-Net HD (TEST)
+http://mn-xc.com:80/live.ts?channelId=6176&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: MAKEDONSKA TV HD
+http://mn-xc.com:80/live.ts?channelId=6177&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: NATIONAL GEOGRAPHIC
+http://mn-xc.com:80/live.ts?channelId=6178&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TV HUGO 4 HD
+http://mn-xc.com:80/live.ts?channelId=6180&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TV HUGO 5 HD
+http://mn-xc.com:80/live.ts?channelId=6181&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,MK: TV SVET
+http://mn-xc.com:80/live.ts?channelId=6182&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,BHMedia Istekla
+http://mn-xc.com:80/live.ts?channelId=6183&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,STUDIO B
+http://mn-xc.com:80/live.ts?channelId=6184&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 7 HR HD
+http://mn-xc.com:80/live.ts?channelId=6189&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 8 HR HD
+http://mn-xc.com:80/live.ts?channelId=6190&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 9 HR HD
+http://mn-xc.com:80/live.ts?channelId=6191&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA SPORT 10 HR HD
+http://mn-xc.com:80/live.ts?channelId=6192&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,ARENA FIGHT HD
+http://mn-xc.com:80/live.ts?channelId=6193&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DEUTSCHE 3. BUNDESLIGA 1 HD
+http://mn-xc.com:80/live.ts?channelId=6194&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DEUTSCHE 3. BUNDESLIGA 2 HD
+http://mn-xc.com:80/live.ts?channelId=6195&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DEUTSCHE 3. BUNDESLIGA 3 HD
+http://mn-xc.com:80/live.ts?channelId=6196&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DEUTSCHE 3. BUNDESLIGA 4 HD
+http://mn-xc.com:80/live.ts?channelId=6197&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DEUTSCHE 3. BUNDESLIGA 5 HD
+http://mn-xc.com:80/live.ts?channelId=6198&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DEUTSCHE 3. BUNDESLIGA 6 HD
+http://mn-xc.com:80/live.ts?channelId=6199&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DEUTSCHE 3. BUNDESLIGA 7 HD
+http://mn-xc.com:80/live.ts?channelId=6200&deviceMac=00:1A:79:00:14:7D&uid=4050
+#EXTINF:0,DE: DEUTSCHE 3. BUNDESLIGA 8 HD
+http://mn-xc.com:80/live.ts?channelId=6201&deviceMac=00:1A:79:00:14:7D&uid=4050

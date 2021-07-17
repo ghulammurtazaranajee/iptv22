@@ -1,3 +1,3 @@
 # iptv22
-https://rb.gy/7v5z1d
+https://tinyurl.com/522kczcn
 use this link for this

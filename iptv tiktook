@@ -2,9 +2,6 @@
 #EXTINF:80,1-2-3 TV (480p)
 #EXTVLCOPT:network-caching=1000
 http://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:0,3sat [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:0,a.tv (1080p)
 #EXTVLCOPT:network-caching=1000
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8

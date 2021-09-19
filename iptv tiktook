@@ -1,1881 +1,1025 @@
 #EXTM3U
-#EXTINF:-1,TR:BEIN SPORTS HABER HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/12
-#EXTINF:-1,TR:BEIN SPORTS S1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1107
-#EXTINF:-1,TR:BEIN SPORTS S2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1108
-#EXTINF:-1,TR:BEIN SPORTS S3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1109
-#EXTINF:-1,TR:BEIN SPORTS S4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1110
-#EXTINF:-1,TR:TIVIBUSPOR S1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3518
-#EXTINF:-1,TR:TIVIBUSPOR S2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3519
-#EXTINF:-1,TR:TIVIBUSPOR S3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3520
-#EXTINF:-1,TR:S SPORT HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/17
-#EXTINF:-1,TR:TRT SPOR HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/32
-#EXTINF:-1,TR:A SPOR HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/30
-#EXTINF:-1,TR:FB TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/34
-#EXTINF:-1,TR:GS TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/35
-#EXTINF:-1,TR:SPORTS TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/38
-#EXTINF:-1,TR:EUROSPORT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/42
-#EXTINF:-1,TR:EUROSPORT 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/43
-#EXTINF:-1,TR:TJK TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/45
-#EXTINF:-1,TR:TAY TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/44
-#EXTINF:-1,TR:NBA TV (TR/ENG)
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/41
-#EXTINF:-1,TR:FIGHTBOX (TR/ENG)
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/40
-#EXTINF:-1,TR:BURSA SPOR TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/37
-#EXTINF:-1,*****TURK ULUSAL*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/46
-#EXTINF:-1,TR:TRT 1 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/111
-#EXTINF:-1,TR:TRT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/47
-#EXTINF:-1,TR:TRT 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3249
-#EXTINF:-1,TR:TRT AVAZ
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/50
-#EXTINF:-1,TR:TRT KURDU
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/51
-#EXTINF:-1,TR:TRT TURK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/49
-#EXTINF:-1,TR:ATV AVRUPA
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/54
-#EXTINF:-1,TR:ATV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/52
-#EXTINF:-1,TR:A2 TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/55
-#EXTINF:-1,TR:EUROSTAR
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/57
-#EXTINF:-1,TR:STAR TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/56
-#EXTINF:-1,TR:SHOW TURK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/60
-#EXTINF:-1,TR:SHOW TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/58
-#EXTINF:-1,TR:SHOWMAX
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/61
-#EXTINF:-1,TR:EURO D
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/64
-#EXTINF:-1,TR:KANAL D HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/62
-#EXTINF:-1,TR:FOX TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/65
-#EXTINF:-1,TR:FOX CRIME
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/67
-#EXTINF:-1,TR:TV 8 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/68
-#EXTINF:-1,TR:TV 8.5
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/71
-#EXTINF:-1,TR:TV 8 INT
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/70
-#EXTINF:-1,TR:KANAL 7 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/74
-#EXTINF:-1,TR:KANAL 7 AVRUPA
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/76
-#EXTINF:-1,TR:BEYAZ TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/77
-#EXTINF:-1,TR:KANAL AVRUPA
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/80
-#EXTINF:-1,TR:HALK TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/72
-#EXTINF:-1,TR:TELE 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3350
-#EXTINF:-1,TR:TV 100
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/73
-#EXTINF:-1,TR:TIVI TURK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/824
-#EXTINF:-1,TR:TLC
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/86
-#EXTINF:-1,TR:FX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/87
-#EXTINF:-1,TR:DMAX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/89
-#EXTINF:-1,TR:TEVE 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/88
-#EXTINF:-1,TR:ULKE TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/84
-#EXTINF:-1,TR:ULUSAL KANAL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/81
-#EXTINF:-1,TR:BENGUTURK TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/83
-#EXTINF:-1,TR:LALEGUL TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/92
-#EXTINF:-1,TR:KABE TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/95
-#EXTINF:-1,TR:TRT DIYANET TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/94
-#EXTINF:-1,TR:KUDüS TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/90
-#EXTINF:-1,*****TURK YEREL*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20794
-#EXTINF:-1,TR:Vizyon Tv Isvicre
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/409
-#EXTINF:-1,TR:KON TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20795
-#EXTINF:-1,TR:Life Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20798
-#EXTINF:-1,TR:Manisa Web Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20799
-#EXTINF:-1,TR:Kanal 5
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20800
-#EXTINF:-1,TR:VATAN TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20801
-#EXTINF:-1,TR:Msbc Kanal 2000
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20802
-#EXTINF:-1,TR:Sun Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20803
-#EXTINF:-1,TR:Kanal 12
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20808
-#EXTINF:-1,TR:Tv EM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20809
-#EXTINF:-1,TR:Almanya Türk Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20816
-#EXTINF:-1,TR:Kent Türk tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/24281
-#EXTINF:-1,TR:ANDRO YERLI 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/25046
-#EXTINF:-1,TR:TV 52
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/25047
-#EXTINF:-1,TR:TV 41
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/25048
-#EXTINF:-1,TR:TV 35
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/25049
-#EXTINF:-1,TR:Kanal 68
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/25051
-#EXTINF:-1,TR:Kanal 33
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/25052
-#EXTINF:-1,TR:Kanal 26
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/25053
-#EXTINF:-1,TR:Rumeli Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/5179
-#EXTINF:-1,TR:Kanal Ordu Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/5183
-#EXTINF:-1,TR:Dim TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/15862
-#EXTINF:-1,TR:Kay Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/15863
-#EXTINF:-1,TR:Ege Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/15864
-#EXTINF:-1,TR:Tv A
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/15865
-#EXTINF:-1,TR:Arti Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/15866
-#EXTINF:-1,TR:Bruksel Turk tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/16586
-#EXTINF:-1,TR:ilke tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/16587
-#EXTINF:-1,TR:Manisa Ev Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/16589
-#EXTINF:-1,TR:Denizli DRT tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20763
-#EXTINF:-1,TR:Vuslat tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20764
-#EXTINF:-1,TR:Metro Turk Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20766
-#EXTINF:-1,TR:Tv Mor
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20767
-#EXTINF:-1,TR:Egem tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20768
-#EXTINF:-1,TR:Sakarya Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20771
-#EXTINF:-1,TR:Royal Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20773
-#EXTINF:-1,TR:Es tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20775
-#EXTINF:-1,TR:Yesilyurt Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/20777
-#EXTINF:-1,TR:TempoTv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/397
-#EXTINF:-1,TR:CemTv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/82
-#EXTINF:-1,TR:Gaziantep OlayTv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/396
-#EXTINF:-1,TR:Olay Turk tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/401
-#EXTINF:-1,TR:AksuTv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/392
-#EXTINF:-1,TR:Yildiz Tv Sinop
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3245
-#EXTINF:-1,TR:DOST TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3243
-#EXTINF:-1,TR:Siteler Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3247
-#EXTINF:-1,TR:Rehber Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/408
-#EXTINF:-1,TR:Bursa Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3236
-#EXTINF:-1,TR:Ben Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3238
-#EXTINF:-1,TR:Altas Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3239
-#EXTINF:-1,TR:Afyon Turk Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3126
-#EXTINF:-1,TR:Sat 7 Turk
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/399
-#EXTINF:-1,TR:Mavi Karadeniz
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/403
-#EXTINF:-1,TR:LiveTv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/391
-#EXTINF:-1,TR:Kanal Z
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/398
-#EXTINF:-1,TR:Kanal F
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/393
-#EXTINF:-1,TR:YOL TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/407
-#EXTINF:-1,TR:Kanal 15
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/400
-#EXTINF:-1,TR:Kanal 19
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3253
-#EXTINF:-1,TR:Kanal 23
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/395
-#EXTINF:-1,TR:Torba Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3254
-#EXTINF:-1,TR:Kanal 34
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3252
-#EXTINF:-1,TR:Kanal 101
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3251
-#EXTINF:-1,TR:Ucan Kus tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/103
-#EXTINF:-1,TR:Frt Tv (Fethiye tv)
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/402
-#EXTINF:-1,TR:TV 5
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/411
-#EXTINF:-1,TR:Deniz Postasi
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/394
-#EXTINF:-1,TR:Ogün Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/389
-#EXTINF:-1,TR:Elit Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/404
-#EXTINF:-1,TR:Grt Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/390
-#EXTINF:-1,TR:AKIT TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/405
-#EXTINF:-1,TR:Can Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/110
-#EXTINF:-1,TR:SEMERKAND TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/93
-#EXTINF:-1,*****TURK HABER*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4942
-#EXTINF:-1,TR:A HABER HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/104
-#EXTINF:-1,TR:NTV HABER HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/100
-#EXTINF:-1,TR:CNN TURK HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/106
-#EXTINF:-1,TR:HABER TURK HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/108
-#EXTINF:-1,TR:HABER GLOBAL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/99
-#EXTINF:-1,TR:TGRT HABER HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/115
-#EXTINF:-1,TR:TRT HABER HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/114
-#EXTINF:-1,TR:SKYTURK 360
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/79
-#EXTINF:-1,TR:BLOOMBERG HT
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/116
-#EXTINF:-1,*****TURK MUZIK*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4943
-#EXTINF:-1,TR:TRT MUZIK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/443
-#EXTINF:-1,TR:NR ONE TURK HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/442
-#EXTINF:-1,TR:NR ONE HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/441
-#EXTINF:-1,TR:KRAL TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/438
-#EXTINF:-1,TR:KRAL POP TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/823
-#EXTINF:-1,TR:DREAM TURK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/440
-#EXTINF:-1,TR:POWER TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3248
-#EXTINF:-1,TR:POWER TURK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/102
-#EXTINF:-1,TR RADIO:KRAL POP FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4693
-#EXTINF:-1,TR:KRAL TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4726
-#EXTINF:-1,TR RADIO:GOZDE RADYO
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4729
-#EXTINF:-1,TR RADIO:ILAC FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4670
-#EXTINF:-1,TR RADIO:CEMRE FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4669
-#EXTINF:-1,TR RADIO:RADIO 71
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4671
-#EXTINF:-1,TR RADIO:YILDIZLAR MAKAMI
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4672
-#EXTINF:-1,TR RADIO:VAN FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4673
-#EXTINF:-1,TR RADIO:YUNUS FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4727
-#EXTINF:-1,TR RADIO:TURKULERLE TURKIYE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4677
-#EXTINF:-1,TR RADIO:TAKSIM FM Slow
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4721
-#EXTINF:-1,TR RADIO:TAKSIM FM Rock
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4723
-#EXTINF:-1,TR RADIO:TAKSIM FM PoP
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4724
-#EXTINF:-1,TR RADIO:TAKSIM FM Arabesk
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4725
-#EXTINF:-1,TR RADIO:YOZGAT FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4678
-#EXTINF:-1,TR RADIO:SORGUN FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4716
-#EXTINF:-1,TR RADIO:RADYO VIVA
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4722
-#EXTINF:-1,TR RADIO:RADYO VATAN TURKU
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4691
-#EXTINF:-1,TR RADIO:RADYO SEHERYELI DINI
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4679
-#EXTINF:-1,TR RADIO:Radyo Mastika
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4680
-#EXTINF:-1,TR RADIO:RADYO 23 Elazig
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4681
-#EXTINF:-1,TR RADIO:RADYO BIZIM FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4682
-#EXTINF:-1,TR RADIO:Kemence Fm
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4684
-#EXTINF:-1,TR RADIO:RADYO AKDENIZ
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4685
-#EXTINF:-1,TR RADIO:RADYO 2000 ARABESK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4717
-#EXTINF:-1,TR RADIO:MAZIDEN BIR DEMET
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4687
-#EXTINF:-1,TR RADIO:MAVI GECE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4674
-#EXTINF:-1,TR RADIO:MAMAS FM POP
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4688
-#EXTINF:-1,TR RADIO:MAMAS FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4689
-#EXTINF:-1,TR RADIO:MAMAS ARABESK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4690
-#EXTINF:-1,TR RADIO:KRAL FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4692
-#EXTINF:-1,TR RADIO:KAFA RADYO
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4719
-#EXTINF:-1,TR RADIO:ISTANBULUN SESI ARABESK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4718
-#EXTINF:-1,TR RADIO:HAYAL FM KARISIK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4715
-#EXTINF:-1,TR RADIO:Gözyasi FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4711
-#EXTINF:-1,TR RADIO:DERYA FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4694
-#EXTINF:-1,TR RADIO:DAMLA FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4695
-#EXTINF:-1,TR RADIO:DAMAR TURK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4710
-#EXTINF:-1,TR RADIO:DAMAR FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4696
-#EXTINF:-1,TR RADIO:Fenomen Radyo
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4709
-#EXTINF:-1,TR RADIO:BODRUM FM POP
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4697
-#EXTINF:-1,TR RADIO:Radyo Bade
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4676
-#EXTINF:-1,TR RADIO:Moral FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4675
-#EXTINF:-1,TR RADIO:BABA RADYO
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4698
-#EXTINF:-1,TR RADIO:EGE OYUN HAVALARI
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4713
-#EXTINF:-1,TR RADIO:Seymen Radyo
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4699
-#EXTINF:-1,TR RADIO:ARABESKIN SESI
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4701
-#EXTINF:-1,TR RADIO:ARABESK TURKIYE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4700
-#EXTINF:-1,TR RADIO:ARABESK TURK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4706
-#EXTINF:-1,TR RADIO:ARABESK RADYO
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4703
-#EXTINF:-1,TR RADIO:ARABESK MELODI FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4704
-#EXTINF:-1,TR RADIO:ARABESK FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4705
-#EXTINF:-1,TR RADIO:ANKARA OYUN HAVALARI
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4712
-#EXTINF:-1,TR RADIO:ALEM FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4702
-#EXTINF:-1,TR RADIO:AKSARAY KRALFM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4707
-#EXTINF:-1,TR RADIO:112 ACIL FM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4708
-#EXTINF:-1,TR RADIO:RADIO YANKI
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4728
-#EXTINF:-1,*****TURK BELGESEL*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/134
-#EXTINF:-1,TR:IDX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/145
-#EXTINF:-1,TR:BBC EARTH HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/136
-#EXTINF:-1,TR:NAT GEO HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/137
-#EXTINF:-1,TR:NAT GEO WILD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/138
-#EXTINF:-1,TR:DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/140
-#EXTINF:-1,TR:DISCOVERY SCIENCE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/141
-#EXTINF:-1,TR:TRT BELGESEL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/147
-#EXTINF:-1,TR:TGRT BELGESEL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/416
-#EXTINF:-1,TR:ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/142
-#EXTINF:-1,TR:HISTORY CHANNEL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/143
-#EXTINF:-1,TR:VIASAT NATURE/HISTORY HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/144
-#EXTINF:-1,TR:Cay tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3242
-#EXTINF:-1,TR:YABAN TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/146
-#EXTINF:-1,TR:AV TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/406
-#EXTINF:-1,*****TURK COCUK*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/117
-#EXTINF:-1,TR:BABY TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3240
-#EXTINF:-1,TR:NICK JR
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/120
-#EXTINF:-1,TR:NICKELODEON HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/119
-#EXTINF:-1,TR:DISNEY XD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/132
-#EXTINF:-1,TR:DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/121
-#EXTINF:-1,TR:DISNEY CHANNEL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/122
-#EXTINF:-1,TR:TRT COCUK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/125
-#EXTINF:-1,TR:MINIKA GO
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/126
-#EXTINF:-1,TR:MINIKA COCUK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/127
-#EXTINF:-1,TR:COCUK SMART HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/128
-#EXTINF:-1,TR:CBEEBIES HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/131
-#EXTINF:-1,TR:CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/124
-#EXTINF:-1,TR:BOOMERANG HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/118
-#EXTINF:-1,TR:DAVINCI LEARNING
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/123
-#EXTINF:-1,*****TURK SINEMA*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/148
-#EXTINF:-1,TR:BEIN IZ HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/135
-#EXTINF:-1,TR:BEIN GURME HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/85
-#EXTINF:-1,TR:BEIN BOX OFFICE 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/153
-#EXTINF:-1,TR:BEIN BOX OFFICE 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/154
-#EXTINF:-1,TR:BEIN BOX OFFICE 3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/155
-#EXTINF:-1,TR:SINEMA MIX 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/804
-#EXTINF:-1,TR:SINEMA MIX 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/805
-#EXTINF:-1,TR:SINEMA MIX 3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/806
-#EXTINF:-1,TR:SINEMA MIX 4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/807
-#EXTINF:-1,TR:SINEMA MIX 5
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/808
-#EXTINF:-1,TR:SINEMA MIX 6
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/809
-#EXTINF:-1,TR:SINEMA MIX 7
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/810
-#EXTINF:-1,TR:SINEMA MIX 8
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/811
-#EXTINF:-1,TR:SINEMA MIX 9
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/812
-#EXTINF:-1,TR:SINEMA MIX 10
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/813
-#EXTINF:-1,TR:SINEMA MIX 11
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/814
-#EXTINF:-1,TR:SINEMA MIX 12
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/815
-#EXTINF:-1,TR:SINEMA MIX 13
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/816
-#EXTINF:-1,TR:SINEMA MIX 14
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/817
-#EXTINF:-1,TR:SINEMA MIX 15
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/818
-#EXTINF:-1,TR:SINEMA MIX 16
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/819
-#EXTINF:-1,TR:SINEMA MIX 17
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/820
-#EXTINF:-1,TR:SINEMA MIX 18
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/821
-#EXTINF:-1,TR:SINEMA MIX 19
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/822
-#EXTINF:-1,TR:SINEMA COCUK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/803
-#EXTINF:-1,TR:SINEMA ANIMASYON 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/778
-#EXTINF:-1,TR:SINEMA ANIMASYON 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/779
-#EXTINF:-1,TR:SINEMA ANIMASYON 3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/780
-#EXTINF:-1,TR:SINEMA AKSIYON 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/769
-#EXTINF:-1,TR:SINEMA AKSIYON 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/770
-#EXTINF:-1,TR:SINEMA AKSIYON 3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/771
-#EXTINF:-1,TR:SINEMA AKSIYON 4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/772
-#EXTINF:-1,TR:SINEMA AKSIYON 5
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/773
-#EXTINF:-1,TR:SINEMA AKSIYON 6
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/774
-#EXTINF:-1,TR:SINEMA BILIM KURGU 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/775
-#EXTINF:-1,TR:SINEMA BILIM KURGU 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/776
-#EXTINF:-1,TR:SINEMA BILIM KURGU 3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/777
-#EXTINF:-1,TR:SINEMA KOMEDI 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/788
-#EXTINF:-1,TR:SINEMA KOMEDI 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/787
-#EXTINF:-1,TR:SINEMA KOMEDI 3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/786
-#EXTINF:-1,TR:SINEMA KOMEDI 4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/789
-#EXTINF:-1,TR:SINEMA KOMEDI 5
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/790
-#EXTINF:-1,TR:SINEMA DRAMA 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/796
-#EXTINF:-1,TR:SINEMA DRAMA 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/797
-#EXTINF:-1,TR:SINEMA DRAMA 3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/798
-#EXTINF:-1,TR:SINEMA DRAMA 4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/799
-#EXTINF:-1,TR:SINEMA DRAMA 5
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/800
-#EXTINF:-1,TR:SINEMA DRAMA 6
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/801
-#EXTINF:-1,TR:SINEMA YESILCAM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/802
-#EXTINF:-1,TR:SINEMA TURK 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/781
-#EXTINF:-1,TR:SINEMA TURK 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/782
-#EXTINF:-1,TR:SINEMA TURK 3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/783
-#EXTINF:-1,TR:SINEMA TURK 4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/784
-#EXTINF:-1,TR:SINEMA TURK 5
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/785
-#EXTINF:-1,TR:SINEMA TURK KORKU
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/791
-#EXTINF:-1,TR:SINEMA KORKU 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/792
-#EXTINF:-1,TR:SINEMA KORKU 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/793
-#EXTINF:-1,TR:SINEMA KORKU 3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/794
-#EXTINF:-1,TR:SINEMA KORKU 4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/795
-#EXTINF:-1,TR:SINEMA TV YERLI
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/178
-#EXTINF:-1,TR:SINEMA TV AKSIYON
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/180
-#EXTINF:-1,TR:SINEMA TV AILE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/179
-#EXTINF:-1,*****TURKI CHANNEL*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4951
-#EXTINF:-1,AZ:ATV 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/529
-#EXTINF:-1,AZ:ATV 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/530
-#EXTINF:-1,AZ:ATV 4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/531
-#EXTINF:-1,AZ:Baku Tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/532
-#EXTINF:-1,AZ:Inter Az TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/539
-#EXTINF:-1,AZ:CBC
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/533
-#EXTINF:-1,AZ:CBC Sport
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/534
-#EXTINF:-1,AZ:IDMAN AZERBAYCAN
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/538
-#EXTINF:-1,AZ:Ictimai TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/537
-#EXTINF:-1,AZ:XEZER TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/548
-#EXTINF:-1,AZ:QEBELE TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/547
-#EXTINF:-1,AZ:Az tv
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/546
-#EXTINF:-1,AZ:Qafqaz TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/545
-#EXTINF:-1,AZ:REAL TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/544
-#EXTINF:-1,AZ:START TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/543
-#EXTINF:-1,AZ:Medeniyyet
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/542
-#EXTINF:-1,AZ:Lider TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/541
-#EXTINF:-1,AZ:KEPEZ TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/540
-#EXTINF:-1,AZ:FTV United
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/536
-#EXTINF:-1,AZ:Dalga
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/535
-#EXTINF:-1,AZ:4 TURK MUSIC
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/549
-#EXTINF:-1,AZ:ARB 24
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/528
-#EXTINF:-1,AZ:ARB
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/527
-#EXTINF:-1,*****GERMANY CHANNEL*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4947
-#EXTINF:-1,*****GERMANY KIDS*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4948
-#EXTINF:-1,*****SKY GERMANY*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/219
-#EXTINF:-1,DE:ZDF HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/182
-#EXTINF:-1,DE:ZDF
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/183
-#EXTINF:-1,DE:ZDF NEO HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/184
-#EXTINF:-1,DE:ARD HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/185
-#EXTINF:-1,DE:ARD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/186
-#EXTINF:-1,DE:PRO 7 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/187
-#EXTINF:-1,DE:PRO 7
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/188
-#EXTINF:-1,DE:PRO 7 MAXX
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/189
-#EXTINF:-1,DE:PRO 7 FUN
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/190
-#EXTINF:-1,DE:VOX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/191
-#EXTINF:-1,DE:VOX
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/192
-#EXTINF:-1,DE:SAT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/193
-#EXTINF:-1,DE:SAT 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/194
-#EXTINF:-1,DE:SAT 1 GOLD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/195
-#EXTINF:-1,DE:RTL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/196
-#EXTINF:-1,DE:RTL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/197
-#EXTINF:-1,DE:RTL NITRO
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/199
-#EXTINF:-1,DE:RTL CRIME
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/200
-#EXTINF:-1,DE:RTL PASSION
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/201
-#EXTINF:-1,DE:RTL LIVING
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/202
-#EXTINF:-1,DE:RTL 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/203
-#EXTINF:-1,DE:RTL 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/204
-#EXTINF:-1,DE:KABEL EINS HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/205
-#EXTINF:-1,DE:ARTE HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/206
-#EXTINF:-1,DE:3 SAT HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/207
-#EXTINF:-1,DE:WDR HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/208
-#EXTINF:-1,DE:SILVERLINE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/209
-#EXTINF:-1,DE:DELUXE MUSIC
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/210
-#EXTINF:-1,DE:RTL PLUS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/211
-#EXTINF:-1,DE:TV AKTUEL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/212
-#EXTINF:-1,DE:FIX&FOXI
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/218
-#EXTINF:-1,DE:KIKA
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/220
-#EXTINF:-1,DE:TOGGO PLUS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/221
-#EXTINF:-1,DE:SUPER RTL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/222
-#EXTINF:-1,DE:NICKELEDEON HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/223
-#EXTINF:-1,DE:CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/224
-#EXTINF:-1,DE:BOOMERANG HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/225
-#EXTINF:-1,DE:DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/226
-#EXTINF:-1,DE:DISNEY XD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/227
-#EXTINF:-1,DE:JUNIOR HD (6-20 Uhr)
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/228
-#EXTINF:-1,DE:DISNEY CHANNEL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/229
-#EXTINF:-1,DE:DISNEY CINEMAGIC
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/230
-#EXTINF:-1,DE:SONY AXN HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/239
-#EXTINF:-1,DE:DMAX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/240
-#EXTINF:-1,DE:SIXX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/241
-#EXTINF:-1,DE:Syfy HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/242
-#EXTINF:-1,DE:13TH Street HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/243
-#EXTINF:-1,DE:FOX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/246
-#EXTINF:-1,DE:ROMANCE TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/248
-#EXTINF:-1,DE:KINOWELT TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/249
-#EXTINF:-1,DE:VIVA/COMEDY CENTRAL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/250
-#EXTINF:-1,DE:SONY Entertainment TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/251
-#EXTINF:-1,DE:KABEL EINS DOKU
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/214
-#EXTINF:-1,DE:EURONEWS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+#EXTINF:-1,#EXTVLCOPT:http-user-agent=okhttp/3.10.0
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/215
-#EXTINF:80,1-2-3 TV (480p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:0,a.tv (1080p)
-#EXTVLCOPT:network-caching=1000
-https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:0,ADRIA Music (1080p)
-#EXTVLCOPT:network-caching=1000
-https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
-#EXTINF:0,Alex Berlin (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:0,Anixe HD (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:0,Antenne Vorarlberg (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:0,ARD Event 1 (540p)
-#EXTVLCOPT:network-caching=1000
-http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
-#EXTINF:0,ARD-alpha (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:0,ARD-alpha (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:0,Arte Deutsch [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8?set-segment-duration=quality
-#EXTINF:0,ARTI TV (480p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
-#EXTINF:0,ARTI TV (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://176.10.117.18:8000/play/a002/index.m3u8
-#EXTINF:0,Baden TV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:0,Baden TV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
-#EXTINF:0,Bibel TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
-#EXTINF:0,Bibel TV Impuls (720p)
-#EXTVLCOPT:network-caching=1000
-https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
-#EXTINF:0,Bibel TV Musik (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:0,BLK Regional TV (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
-#EXTINF:0,BLK TV (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:0,BLK TV Hohenmölsen (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
-#EXTINF:0,BLK TV Hohenmölsen (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
-#EXTINF:0,Bloomberg TV EMEA Live Event (720p)
-#EXTVLCOPT:network-caching=1000
-https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:0,Bloomberg TV Europe (2160p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Bloomberg TV Europe (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:0,BR Fernsehen Nord (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:0,BR Fernsehen Nord (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:0,BR Fernsehen Süd (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:0,BR Fernsehen Süd (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
-#EXTINF:0,Campus TV Magdeburg (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
-#EXTINF:0,Campus TV Magdeburg (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-#EXTINF:0,Campus-TV-Magdeburg+ (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
-#EXTINF:0,Chemnitz Fernsehen (1080p)
-#EXTVLCOPT:network-caching=1000
-https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:0,CIRA TV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://176.10.117.18:8000/play/a00f/index.m3u8
-#EXTINF:0,Das Erste (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:0,Das Erste (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:0,Das Erste (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:0,Das Erste (720p)
-#EXTVLCOPT:network-caching=1000
-https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:0,DASDING 90.8 (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
-#EXTINF:0,Deluxe Lounge HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&ads:tcf=%7BTC_STRING%7D&coppa=1&country=GB&optout=%7BTARGETOPT%7D&uid=%7BPSID%7D&vendor=samsung
-#EXTINF:0,Deutsches Musik Fernsehen (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://tv.artcom-venture.de:1322/dmf/tv.m3u8
-#EXTINF:0,Deutsches Musik Fernsehen (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://tv.artcom-venture.de/dmf/tv.m3u8
-#EXTINF:0,Dresden Fernsehen (1080p)
-#EXTVLCOPT:network-caching=1000
-https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:0,Dust (720p)
-#EXTVLCOPT:network-caching=1000
-https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,DW (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-#EXTVLCOPT:network-caching=1000
-http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:0,DW Deutsch (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:0,DW Deutsch+ (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
-#EXTINF:0,Elbekanal (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/elbe_high/playlist.m3u8
-#EXTINF:0,Elbekanal (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/mp4:elbe_high/playlist.m3u8
-#EXTINF:0,Elbekanal Schönebeck (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:elbe_high/playlist.m3u8
-#EXTINF:0,ems TV Lingen (280p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5889e7d0d6e28.streamlock.net/ev1tv-live/mp4:livestream/playlist.m3u8
-#EXTINF:0,eo TV (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5856e1a25f71a.streamlock.net/easycast9-live/mp4:livestreamhd5/playlist.m3u8
-#EXTINF:0,Erz-TV Stollberg (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-#EXTINF:0,Euronews Deutsch (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Filstalwelle (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.2/filstalwelle-live/mp4:livestream/playlist.m3u8
-#EXTINF:0,Finest TV (288p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://media.finest.tv/hls/live.m3u8
-#EXTINF:0,FOLX Music (1080p)
-#EXTVLCOPT:network-caching=1000
-https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
-#EXTINF:0,FOLX Slovenija (1080p)
-#EXTVLCOPT:network-caching=1000
-https://serve-first.folxplay.tv/folx/ch-5/master.m3u8
-#EXTINF:0,Franken Fernsehen (1080p)
-#EXTVLCOPT:network-caching=1000
-https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
-#EXTINF:0,Franken Fernsehen (Nürnberg) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:0,Friesischer Rundfunk Friedeburg (350p)
-#EXTVLCOPT:network-caching=1000
-https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/mp4:friesischerrundfunk/playlist.m3u8
-#EXTINF:0,Hamburg 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://live2.telvi.de/hls/hamburg1.m3u8
-#EXTINF:0,Handystar (404p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://mediaspar-live.hls.adaptive.level3.net/ses/mediaspar/stream1/streamPlaylist.m3u8
-#EXTINF:0,Hauptstadt.TV (Potsdam) (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
-#EXTINF:0,Health TV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:0,hr-fernsehen (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:0,HSE (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:0,HSE24 Extra (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
-#EXTINF:0,HSE24 Trend (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
-#EXTINF:0,Isar TV (1080p)
-#EXTVLCOPT:network-caching=1000
-https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:0,JenaTV (1080p)
-#EXTVLCOPT:network-caching=1000
-https://stream7.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
-#EXTINF:0,K-TV (Fernsehen) (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:0,KiKA [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:0,KulturMD (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:0,KW TV Wildau (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
-#EXTINF:0,Lausitzwelle (Fernsehen) (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5856e1a25f71a.streamlock.net/easycast9-live/mp4:livestreamhd10/playlist.m3u8
-#EXTINF:0,Leipzig Fernsehen (1080p)
-#EXTVLCOPT:network-caching=1000
-https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:0,Light Channel (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
-#EXTINF:0,MDF.1 (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:0,MDF.1 (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:0,MDF.1 (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8
-#EXTINF:0,MTV Hits Europe (576p)
-#EXTVLCOPT:network-caching=1000
-http://188.40.68.167/russia/mtv_hits/playlist.m3u8
-#EXTINF:0,Muxx.tv (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5856e1a25f71a.streamlock.net/easycast7-live/livestream/playlist.m3u8
-#EXTINF:0,MyTVplus (Dresden) (576p)
-#EXTVLCOPT:network-caching=1000
-https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
-#EXTINF:0,München TV (1080p)
-#EXTVLCOPT:network-caching=1000
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:0,n-tv Event (540p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8
-#EXTINF:0,naheTV (720p)
-#EXTVLCOPT:network-caching=1000
-https://s.ok54.de/nahetv/webstream/playlist.m3u8
-#EXTINF:0,NDR Event 1 (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8
-#EXTINF:0,NDR Event 2 (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8
-#EXTINF:0,NDR Event 3 (720p)
-#EXTVLCOPT:network-caching=1000
-https://ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8
-#EXTINF:0,NDR Fernsehen (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ndrfs-lh.akamaihd.net/i/ndrfs_fs@430230/master.m3u8
-#EXTINF:0,NDR Hamburg (720p)
-#EXTVLCOPT:network-caching=1000
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:0,NDR Hamburg (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:0,NDR International (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ndrfs-lh.akamaihd.net/i/ndrfs_int@430236/master.m3u8
-#EXTINF:0,NDR Mecklenburg-Vorpommern (720p)
-#EXTVLCOPT:network-caching=1000
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-#EXTINF:0,NDR Mecklenburg-Vorpommern (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-#EXTINF:0,NDR Niedersachsen (720p)
-#EXTVLCOPT:network-caching=1000
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:0,NDR Niedersachsen (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:0,NDR Schleswig-Holstein (720p)
-#EXTVLCOPT:network-caching=1000
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-#EXTINF:0,NDR Schleswig-Holstein (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-#EXTINF:0,NDR Weltweiter (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ndrfs-lh.akamaihd.net/i/ndrfs_ww@430235/master.m3u8
-#EXTINF:0,Niederbayern TV (1080p)
-#EXTVLCOPT:network-caching=1000
-https://stream03.stream.welocal.world/stream/nla/ngrp:nla.stream_all/playlist.m3u8
-#EXTINF:0,Niederbayern TV Passau (1080p)
-#EXTVLCOPT:network-caching=1000
-https://stream03.stream.welocal.world/stream/npa/ngrp:npa.stream_all/playlist.m3u8
-#EXTINF:0,Noa 4 Hamburg (1080p)
-#EXTVLCOPT:network-caching=1000
-https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:0,Noa 4 Norderstedt (1080p)
-#EXTVLCOPT:network-caching=1000
-https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:0,NRT 2 (480p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
-#EXTINF:0,NRWision (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
-#EXTINF:0,NRWision (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8
-#EXTINF:0,NRWision (360p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
-#EXTINF:0,NRWISION (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
-#EXTINF:0,Oberlausitz TV (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8
-#EXTINF:0,Oberpfalz TV (1080p)
-#EXTVLCOPT:network-caching=1000
-https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:0,oeins (Oldenburg) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://www.oeins.de/live/studio.m3u8
-#EXTINF:0,OF-TV Offenbach (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
-#EXTINF:0,OK Dessau (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
-#EXTINF:0,OK Dessau (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
-#EXTINF:0,OK Flensburg (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
-#EXTINF:0,OK Gießen (360p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
-#EXTINF:0,OK Kaiserslautern (720p)
-#EXTVLCOPT:network-caching=1000
-https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-#EXTINF:0,OK Kassel (720p)
-#EXTVLCOPT:network-caching=1000
-https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:0,OK Kiel (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
-#EXTINF:0,OK Ludwigshafen (360p)
-#EXTVLCOPT:network-caching=1000
-https://s.ok54.de/oklu/livestream/playlist.m3u8
-#EXTINF:0,OK Magdeburg (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
-#EXTINF:0,OK Merseburg-Querfurt (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
-#EXTINF:0,OK Rhein-Main (576p)
-#EXTVLCOPT:network-caching=1000
-https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-#EXTINF:0,OK RheinLokal (Worms) (720p)
-#EXTVLCOPT:network-caching=1000
-https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
-#EXTINF:0,OK Salzwedel (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
-#EXTINF:0,OK Stendal (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
-#EXTINF:0,OK Stendal (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
-#EXTINF:0,OK Suedwestpfalz (720p)
-#EXTVLCOPT:network-caching=1000
-https://s.ok54.de/okswp/test/playlist.m3u8
-#EXTINF:0,OK Trier (720p)
-#EXTVLCOPT:network-caching=1000
-https://s.ok54.de/ott/webstream/playlist.m3u8
-#EXTINF:0,OK Weinstraße (Neustadt) (432p)
-#EXTVLCOPT:network-caching=1000
-https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
-#EXTINF:0,OK Wernigerode (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:0,OK Wernigerode (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
-#EXTINF:0,oldenburg eins (1080p)
-#EXTVLCOPT:network-caching=1000
-https://oeins.de/live/studio.m3u8
-#EXTINF:0,ONE1 Music (1080p)
-#EXTVLCOPT:network-caching=1000
-https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
-#EXTINF:0,ONE1 Slovenija (1080p)
-#EXTVLCOPT:network-caching=1000
-https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
-#EXTINF:0,Parlamentsfernsehen 1 (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:0,Parlamentsfernsehen 1 (1080p)
-#EXTVLCOPT:network-caching=1000
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:0,Parlamentsfernsehen 2 (1080p)
-#EXTVLCOPT:network-caching=1000
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
-#EXTINF:0,Phoenix [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:0,Pluto TV Chefkoch (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8c4c3f141f350007936f7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Comedy Central (Made in Germany) (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4948418101147596fd6c5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Filmes Suspense (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Mario vs Sonic (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Movies (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Movies CH (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV MTV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV N24 Doku (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Nick (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede448d3d50590007a4419e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Nick Emma einfach magisch! (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4796368174910007756454/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Nick Jr. (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Paranormal (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98487036af340008da1e37/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Slow TV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d765a05f65029ce2385aa30/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV SpongeBob Schwammkopf (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Storage Wars (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede464e7be0030007c58b73/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Teen (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV The Story of Beatclub (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f982c3420de4100070a545e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Totally Turtles (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Pluto TV Victorious (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,Punkteins (Oberlausitz) (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5852afe96c9bb.streamlock.net/easycast8-live/mp4:livestreamhd4/playlist.m3u8
-#EXTINF:0,PunktUM (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
-#EXTINF:0,PUNKTum (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u8
-#EXTINF:0,PUNKTum Fernsehen (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
-#EXTINF:0,Punktum S#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
-#EXTINF:0,Radio 21 TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:0,Radio Weser TV Bremen (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
-#EXTINF:0,Rakuten TV Action Movies Germany (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Rakuten TV Comedy Movies Germany (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Rakuten TV Drama Germany (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Rakuten TV Family Germany (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Rakuten TV Spotlight Germany (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Ran 1 (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:0,RAN1 (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
-#EXTINF:0,RAN1 (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
-#EXTINF:0,RAN1 Regionalfernsehen (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8
-#EXTINF:0,RAN1 Regionalfernsehen (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:0,RBW (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
-#EXTINF:0,Regio TV Bodensee (1080p)
-#EXTVLCOPT:network-caching=1000
-https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
-#EXTINF:0,Regio TV Schwaben (1080p)
-#EXTVLCOPT:network-caching=1000
-https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
-#EXTINF:0,Regio TV Stuttgart (1080p)
-#EXTVLCOPT:network-caching=1000
-https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
-#EXTINF:0,RFH (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
-#EXTINF:0,RFH Harz (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
-#EXTINF:0,RFH Harz (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?ref=medienportal-sachsen-anhalt.de&seid=528347
-#EXTINF:0,RFH TV (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
-#EXTINF:0,RFO Rosenheim (1080p)
-#EXTVLCOPT:network-caching=1000
-https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-#EXTINF:0,rheinmaintv (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8
-#EXTINF:0,rheinmaintv (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8
-#EXTINF:0,rheinmaintv (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
-#EXTINF:0,RNF (1080p)
-#EXTVLCOPT:network-caching=1000
-https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:0,Rock Antenne
-#EXTVLCOPT:network-caching=1000
-https://stream.rockantenne.de/rockantenne/stream/mp3
-#EXTINF:0,Rockland TV (720p)
-#EXTVLCOPT:network-caching=1000
-http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
-#EXTINF:0,RON TV (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://ron-i.akamaihd.net/hls/live/523496/ron/master.m3u8
-#EXTINF:0,RTL Gold (360p)
-#EXTVLCOPT:network-caching=1000
-https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
-#EXTINF:0,RTL Klub (360p)
-#EXTVLCOPT:network-caching=1000
-https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8
-#EXTINF:0,RTL Klub (720p)
-#EXTVLCOPT:network-caching=1000
-https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
-#EXTINF:0,RTL West (540p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
-#EXTINF:0,RTL+ (360p)
-#EXTVLCOPT:network-caching=1000
-https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
-#EXTINF:0,RWE Erfurt (1080p)
-#EXTVLCOPT:network-caching=1000
-https://stream.keyweb.org:8085/hls/rwetv.m3u8
-#EXTINF:0,Saarland Fernsehen 1 (1080p)
-#EXTVLCOPT:network-caching=1000
-https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:0,Saarland Fernsehen 2 (720p)
-#EXTVLCOPT:network-caching=1000
-https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF:0,Santhora Short Film (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
-#EXTINF:0,Santhora TV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:0,Seenluft24 (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5856e1a25f71a.streamlock.net/easycast7-live/mp4:livestreamhd20/playlist.m3u8
-#EXTINF:0,Sofy TV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0,Sonnenklar.TV (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://euvia-live.hls.adaptive.level3.net/ses/euvia/index.m3u8
-#EXTINF:0,Sonus FM Alemania (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
-#EXTINF:0,Sophia TV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
-#EXTINF:0,Sophia TV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/playlist.m3u8
-#EXTINF:0,SR Fernsehen (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://fs.live.sr.de/i/sr_universal02@107595/master.m3u8
-#EXTINF:0,SR Fernsehen (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
-#EXTINF:0,Studio 47 (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5852afe96c9bb.streamlock.net/studio47-live/mp4:livestream/playlist.m3u8
-#EXTINF:0,SWR 3 Visual Radio (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://swrswr3vrhls-i.akamaihd.net/hls/live/780818/vrswr3/master.m3u8
-#EXTINF:0,Sylt1 (404p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5aec29c5dd23b.streamlock.net:8443/sylt1/sylt1_high1.stream/playlist.m3u8
-#EXTINF:0,SÃ¼dtirol TV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
-#EXTINF:0,Tagesschau24 (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:0,Teins TV (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://live1.markenfunk.com/t1/live/chunklist.m3u8
-#EXTINF:0,Teletubbies (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,teltOwkanal (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8
-#EXTINF:0,Tesas TV (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://jola.live:16200/tesastv.m3u8
-#EXTINF:0,Tide TV (1080p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
-#EXTINF:0,TV Bayern Live (1080p)
-#EXTVLCOPT:network-caching=1000
-https://s3.welocal.world/tvbayernlive/media/134371/videos/hls.m3u8
-#EXTINF:0,TV Halle (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://58bd5b7a98e04.streamlock.net/medienasa-live/tvhalle_high/playlist.m3u8
-#EXTINF:0,TV Halle (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/tvhalle_high/playlist.m3u8
-#EXTINF:0,TV Ingolstadt (1080p)
-#EXTVLCOPT:network-caching=1000
-https://stream01.stream.welocal.world/stream/tvi/ngrp:tvi.stream_all/playlist.m3u8
-#EXTINF:0,TV Mainfranken (1080p)
-#EXTVLCOPT:network-caching=1000
-https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8
-#EXTINF:0,TV Mainfranken (1080p)
-#EXTVLCOPT:network-caching=1000
-https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:0,TV Oberfranken (1080p)
-#EXTVLCOPT:network-caching=1000
-https://stream02.stream.welocal.world/stream/tvo/ngrp:tvo.stream_all/playlist.m3u8
-#EXTINF:0,TV38 Südost-Niedersachen (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:0,TVA (1080p)
-#EXTVLCOPT:network-caching=1000
-https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:0,TVA Ostbayern (1080p)
-#EXTVLCOPT:network-caching=1000
-https://stream02.stream.welocal.world/stream/tva/ngrp:tva.stream_all/playlist.m3u8
-#EXTINF:0,TVO (1080p)
-#EXTVLCOPT:network-caching=1000
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:0,Unserding (544p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
-#EXTINF:0,WDR Fernsehen (720p)
-#EXTVLCOPT:network-caching=1000
-https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:0,WDR Koeln (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
-#EXTINF:0,WELT [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
-#EXTINF:0,World of Freesports (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:0,ZDF [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:0,ZDFinfo [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:0,ZDFneo [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:0,ZWEI2 Music (1080p)
-#EXTVLCOPT:network-caching=1000
-https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
-#EXTINF:0,Ç#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,#EXTVLCOPT:network-caching=1000
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/25

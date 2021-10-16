@@ -1,5 +1,4 @@
 #EXTM3U#
-
 #EXTINF:-1,|BEIN AR|  BEIN SPORTS PREMIUM 1 FHD
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/27099
 #EXTINF:-1,|BEIN AR|  BEIN SPORTS PREMIUM 2 FHD
@@ -48,8 +47,6 @@ http://cms.lmb2.xyz:8080/3173434353113478/2598854265/28182
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/28181
 #EXTINF:-1,ALGERIA 5
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/28180
-#EXTINF:-1,ALGERIA 6
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/101109
 #EXTINF:-1,ALJAZAIRYA
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/28179
 #EXTINF:-1,ECHOUROUK TV
@@ -138,8 +135,6 @@ http://cms.lmb2.xyz:8080/3173434353113478/2598854265/12877
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/12878
 #EXTINF:-1,MBC DRAMA  HD
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/12879
-#EXTINF:-1,FIX FOXI
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/12891
 #EXTINF:-1,DISCOVERY CH HD
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/12898
 #EXTINF:-1,NAT GEO KIDS HD
@@ -214,8 +209,6 @@ http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43366
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43367
 #EXTINF:-1,EuroSport 2
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43368
-#EXTINF:-1,TRT Haber FHD
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43369
 #EXTINF:-1,TRT Haber HD
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43370
 #EXTINF:-1,A Haber HD
@@ -284,12 +277,6 @@ http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43449
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43451
 #EXTINF:-1,Dream TV
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43452
-#EXTINF:-1,Dreamuk
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43453
-#EXTINF:-1,Adana TV
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43458
-#EXTINF:-1,BEN TV
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43461
 #EXTINF:-1,Genc TV HD
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/43470
 #EXTINF:-1,alk TV
@@ -376,18 +363,6 @@ http://cms.lmb2.xyz:8080/3173434353113478/2598854265/112603
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/112604
 #EXTINF:-1,ROTANA COMEDY FHD
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/112606
-#EXTINF:-1,AL AOULA INTER H265
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/112607
-#EXTINF:-1,LAAYOUNE TV H265
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/112608
-#EXTINF:-1,AL MAGHRIBIA H265
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/112609
-#EXTINF:-1,ARRABIAA H265
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/112610
-#EXTINF:-1,MEDI1 TV H265
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/112614
-#EXTINF:-1,ROTANA CINEMA H265
-http://cms.lmb2.xyz:8080/3173434353113478/2598854265/112616
 #EXTINF:-1,ROTANA CLASSIC H265
 http://cms.lmb2.xyz:8080/3173434353113478/2598854265/112617
 #EXTINF:-1,ROTANA DRAMA H265
@@ -524,8 +499,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/73
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/824
 #EXTINF:-1,TR:TLC
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/86
-#EXTINF:-1,TR:FX HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/87
 #EXTINF:-1,TR:DMAX HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/89
 #EXTINF:-1,TR:TEVE 2
@@ -798,8 +771,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3240
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/120
 #EXTINF:-1,TR:NICKELODEON HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/119
-#EXTINF:-1,TR:DISNEY XD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/132
 #EXTINF:-1,TR:DISNEY JUNIOR
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/121
 #EXTINF:-1,TR:DISNEY CHANNEL HD
@@ -826,8 +797,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/135
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/85
 #EXTINF:-1,TR:BEIN BOX OFFICE 1
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/153
-#EXTINF:-1,TR:BEIN BOX OFFICE 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/154
 #EXTINF:-1,TR:BEIN BOX OFFICE 3
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/155
 #EXTINF:-1,TR:SINEMA MIX 1
@@ -1560,8 +1529,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3327
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3348
 #EXTINF:-1,HR:STV SLTV
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3347
-#EXTINF:-1,HR:SLOVANSKA TV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3332
 #EXTINF:-1,HR:SB TV
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3345
 #EXTINF:-1,HR:OSIJECKA TV
@@ -1800,8 +1767,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4819
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3393
 #EXTINF:-1,ESP:MOVISTAR GOLF
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3388
-#EXTINF:-1,ESP:MOVISTAR F1 HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3394
 #EXTINF:-1,ESP:MOVISTAR DEPORTES 1
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3395
 #EXTINF:-1,ESP:MOVISTAR DEPORTES 2
@@ -1856,8 +1821,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3451
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3452
 #EXTINF:-1,UK:ITV 4
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3453
-#EXTINF:-1,UK:ITVBE
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3454
 #EXTINF:-1,UK:SYFY
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3494
 #EXTINF:-1,UK:FOX
@@ -1930,16 +1893,12 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3485
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3484
 #EXTINF:-1,UK:SKY SPORTS ACTION
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3481
-#EXTINF:-1,UK:BT SPORT 1 HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3418
 #EXTINF:-1,UK:BT SPORT 3 HD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3420
 #EXTINF:-1,*****RUSSIA*****
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3325
 #EXTINF:-1,RU:MATCH FUTBOL 1
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3371
-#EXTINF:-1,RU:MATCH FUTBOL 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3372
 #EXTINF:-1,RU:MATCH FUTBOL 3
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3387
 #EXTINF:-1,RU:Match tv
@@ -2272,8 +2231,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4529
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/596
 #EXTINF:-1,FR:RMC
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/588
-#EXTINF:-1,FR:RMC Decouverte
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/589
 #EXTINF:-1,FR:TCM CINEMA
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4528
 #EXTINF:-1,FR:LCI
@@ -2344,14 +2301,10 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/601
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/595
 #EXTINF:-1,FR:Radio Contact
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/587
-#EXTINF:-1,FR:MCM Top HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/583
 #EXTINF:-1,FR:L'Equipe 21
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/579
 #EXTINF:-1,FR:KTO
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/578
-#EXTINF:-1,FR:ILTV
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/577
 #EXTINF:-1,FR:Gong
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/573
 #EXTINF:-1,FR:Francophonie
@@ -2382,8 +2335,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1903
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1904
 #EXTINF:-1,FR:BEIN SPORTS 1
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1885
-#EXTINF:-1,FR:BEIN SPORTS 2
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1886
 #EXTINF:-1,FR:BEIN SPORTS 3
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1887
 #EXTINF:-1,FR:BEIN SPORTS 4 MAX
@@ -2516,8 +2467,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/851
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/848
 #EXTINF:-1,GR:Vouli Tileorasi
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/879
-#EXTINF:-1,GR:TV Filopoli
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/876
 #EXTINF:-1,GR:Samiaki tv
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/864
 #EXTINF:-1,GR:Montreal Greek TV
@@ -2604,8 +2553,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/733
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/728
 #EXTINF:-1,MUSIC:Retro Music Television
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/725
-#EXTINF:-1,MUSIC:One by HD
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/723
 #EXTINF:-1,MUSIC:One By UHD
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/719
 #EXTINF:-1,MUSIC:Radio PROS
@@ -2640,8 +2587,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/688
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/687
 #EXTINF:-1,MUSIC:Company Tv
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/686
-#EXTINF:-1,MUSIC:M20 Tv
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/684
 #EXTINF:-1,MUSIC:Magic TV
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/677
 #EXTINF:-1,MUSIC:KroneHit TV
@@ -2698,8 +2643,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4933
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4934
 #EXTINF:-1,BE:LA TROIS
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4935
-#EXTINF:-1,BE:KETNET
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4937
 #EXTINF:-1,BE:EEN
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4938
 #EXTINF:-1,DE:SKY SPORT 2 SD

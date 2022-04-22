@@ -664,8 +664,6 @@ https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 ,Canal 26
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
-#EXTINF:-1 ,Canal 33 (1080p)
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
 #EXTINF:-1 ,Canal33 (480p)
 https://fms-https1.mediadirect.ro/live3/canal33.smil/playlist.m3u8
 #EXTINF:-1 ,Canal 33 Madrid (1080p) [Not 24/7]
@@ -686,8 +684,6 @@ https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 ,Canal de l'Assemblée nationale (544p) [Not 24/7]
 https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e/playlist.m3u8
-#EXTINF:-1 ,Canal Diocesano (576p) [Not 24/7]
-https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 #EXTINF:-1 ,Canal Diputados (720p)
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1 ,Canal Doñana [Not 24/7]
@@ -856,8 +852,6 @@ https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 ,Choice (1080p)
 https://vod.streams.ovh:3528/stream/play.m3u8
-#EXTINF:-1 ,Cholusat Sur 36 (214p) [Not 24/7]
-http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 #EXTINF:-1 ,Christian Youth Channel (CYC) (1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 ,Christian Youth Channel (CYC) (1080p)
@@ -1066,8 +1060,6 @@ https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Deni̇z Postasi TV (720p)
 https://waw2.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8
-#EXTINF:-1 ,Deniz Postası TV (720p) [Not 24/7]
-http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8
 #EXTINF:-1 ,Dersim62 TV (720p)
 http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
 #EXTINF:-1 ,DesheBideshe TV (720p)
@@ -1272,8 +1264,6 @@ https://5889e7d0d6e28.streamlock.net/ev1tv-live/mp4:livestream/playlist.m3u8
 https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 ,Ena Channel (720p) [Not 24/7]
 http://176.9.123.140:1935/1c/stream/master.m3u8
-#EXTINF:-1 ,Enki Benki (360p)
-http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 #EXTINF:-1 ,Entella TV (720p) [Not 24/7]
 https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
 #EXTINF:-1 ,Enter10 Bangla (576p) [Not 24/7]
@@ -1690,8 +1680,6 @@ http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 ,GRT (720p)
 https://waw2.artiyerelmedya.net/grt/bant1/chunks.m3u8
-#EXTINF:-1 ,GTN Typhome (English Subs) (720p) [Not 24/7]
-https://hamada.gaki-no-tsukai.eu:2087/hls/test.m3u8
 #EXTINF:-1 ,GTV (720p)
 https://cdn1.live-tv.od.ua:8083/a1od/gtvod-720p/playlist.m3u8
 #EXTINF:-1 ,GTV (360p) [Not 24/7]
@@ -1702,8 +1690,6 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 ,Gulli (540p)
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:-1 ,Güneş TV Kibris [Not 24/7]
-http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
 #EXTINF:-1 ,GurSikh Sabha TV (720p)
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 ,Gusto TV (720p)
